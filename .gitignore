@@ -1,0 +1,25 @@
+get_gitbook_md.py
+info git.txt
+
+# Ignorer les fichiers temporaires du système
+.DS_Store
+Thumbs.db
+
+# Ignorer les répertoires de dépendances
+node_modules/
+vendor/
+
+# Ignorer les fichiers générés par l'IDE
+*.log
+*.swp
+.idea/
+.vscode/
+
+# Ignorer les fichiers binaires ou compilés
+*.exe
+*.dll
+*.pyc
+
+# Ignorer les fichiers de build
+dist/
+build/
