@@ -1,9 +1,10 @@
-1. [💰Wise Lending](/wise/wise-lending)
-
 # 🤖LASA AI
+
+[💰Wise Lending](../)
+
+## 🤖LASA AI
 
 LASA is our on chain AI that determines the borrow APY in our lending pools.
 
-[PreviousDecentralization Rank](/wise/wise-lending/decentralization-rank)[NextWorld Mobile](/wise/world-mobile)
+[Previous Decentralization Rank](../decentralization-rank/)  [Next World Mobile](../../world-mobile/)
 
-Last updated 9 months ago

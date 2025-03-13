@@ -1,22 +1,24 @@
-1. [💰Wise Lending](/wise/wise-lending)
-
 # 🏆Decentralization Rank
+
+[💰Wise Lending](../)
+
+## 🏆Decentralization Rank
 
 A ranking system for DeFi protocols based on decentralization.
 
 Decentralization rank is meant to analyze the risk profile of DeFi projects, similar to how [L2beat](https://l2beat.com/scaling/summary) shows risk profiles for layer 2 blockchains and bridges. This information should be used as part of a due diligence process before using a platform, and can also shed light on why we chose not to build on top of certain other projects that lack decentralization.
 
-| Name | Upgradability | Admin Power | Real Yield |
-| --- | --- | --- | --- |
-| Wise Lending | No | Low | Yes |
-| Uniswap | No | Low | Yes |
-| Curve | No | Low | Partial |
-| Pendle | No | Low | Partial |
-| Aave | Yes | High | Yes |
-| Paraswap | Yes | High | Partial |
-| Bend DAO | 24hr Delay | High | Partial |
-| Penpie | Yes | High | Partial |
-| Stella | Yes | High | Partial |
+| Name         | Upgradability | Admin Power | Real Yield |
+| ------------ | ------------- | ----------- | ---------- |
+| Wise Lending | No            | Low         | Yes        |
+| Uniswap      | No            | Low         | Yes        |
+| Curve        | No            | Low         | Partial    |
+| Pendle       | No            | Low         | Partial    |
+| Aave         | Yes           | High        | Yes        |
+| Paraswap     | Yes           | High        | Partial    |
+| Bend DAO     | 24hr Delay    | High        | Partial    |
+| Penpie       | Yes           | High        | Partial    |
+| Stella       | Yes           | High        | Partial    |
 
 **Upgradability** refers to whether the code of the contract is "set-in-stone" and unchangeable, or if the admin can upgrade the code at will. The middle ground is code that can be upgraded, but only after a certain time delay, which may or may not be useful for users to withdraw their funds if necessary.
 
@@ -28,6 +30,5 @@ Decentralization rank is meant to analyze the risk profile of DeFi projects, sim
 
 Additional categories that could be added include Oracle provider, Oracle back-up, liquidation mechanism, verified contracts, audits, on chain.
 
-[PreviousReferral System](/wise/wise-lending/referral-system)[NextLASA AI](/wise/wise-lending/lasa-ai)
+[Previous Referral System](../referral-system/)  [Next LASA AI](../lasa-ai/)
 
-Last updated 4 months ago

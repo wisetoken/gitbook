@@ -18,6 +18,4 @@ WISE token, launched Nov 2020, is unlike any other token in existence. It has $1
 
 Joining the Wise Ecosystem is easy if your project has a token and maintains a Uniswap liquidity pool. Simply pair your token with WISE for liquidity instead of ETH and your token will piggy-back on the value created by our Ecosystem. This can be done as part of a launch plan, or retroactively after launch, if your team has control of the liquidity pool. If your project is a token-less project, you can still join by maintaining a portion of your treasury/balance sheet in WISE. Grants/developer support are available on a case-by-case basis for those who wish to join our ecosystem.
 
-[NextWise Lending](/wise/wise-lending)
-
-Last updated 9 months ago
+[Next Wise Lending](wise-lending/)
