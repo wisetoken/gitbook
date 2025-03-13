@@ -1,6 +1,6 @@
 # 🤑Power Farms
 
-1. [💰Wise Lending](../)
+[💰Wise Lending](../)
 
 ## 🤑Power Farms
 
@@ -11,8 +11,6 @@ One-click yield-farming strategies that leverage native liquidity from our lendi
 Power Farms create a constant high demand for borrowed funds on Wise Lending, ensuring best-in-class returns for lenders. (Traditional lending platforms suffer from low borrowing demand which translates into low returns for lenders).
 
 ![Power Farms Example](power-farms-be3a2b46.png)
-
-Power Farms Example
 
 ### Problems with Yield Aggregators:
 
@@ -25,8 +23,6 @@ From the chart below, one can see that Yearn Finance is one of the few yield agg
 
 ![Source:https://arxiv.org/pdf/2210.04194.pdf](power-farms-bd8b5f88.jpg)
 
-Source: [https://arxiv.org/pdf/2210.04194.pdf](https://arxiv.org/pdf/2210.04194.pdf)
-
 * #### **Lending platforms without integrated yield sources suffer from low borrowing demand and unattractive APY for lenders.**
 * #### **Yield aggregators without integrated lending platforms suffer from lack of capital, as lenders opt for more flexible options, where they can borrow against their deposits.**
 * #### **Wise Lending is both a traditional lending platform, and a state-of-the-art yield aggregator, and it was built without compromising security or decentralization.**
@@ -37,13 +33,11 @@ In the past, yield aggregators have been regarded as risky compared to dApps lik
 
 ![Spok would use Power Farms](power-farms-b547b807.jpeg)
 
-Spok would use Power Farms
-
 #### **1) Leveraged Positions are Protected Against Liquidations**
 
 Power Farms are zero impermanent loss, like-kind-asset, low risk strategies. Liquidations wouldn't happen from the price moving the wrong way like traditional leverage, because both collateral and borrowed assets are like-kind assets that move together. However, a black swan event that causes the derivative asset to become de-pegged from the underlying asset could cause liquidations. (e.g. the Silicon Valley Bank collapse temporarily affecting USDC).
 
-In the unlikely event of a liquidation,only **21%** of principle funds are lost, within a few percent, depending on how quickly the position is liquidated.
+In the unlikely event of a liquidation, only **21%** of principle funds are lost, within a few percent, depending on how quickly the position is liquidated.
 
 The only other liquidation scenario is if the Power Farm position becomes negative APY (from the user paying more to borrow than what is being earned). For that user, liquidation may occur, if they do not close that position for an extended period of time, such that all earned profits are depleted, and enough principle is attrited away to cause a liquidation.
 
@@ -63,12 +57,10 @@ For more info on decentralization, see the [Decentralization Rank](../decentrali
 
 #### **3) Power Farms do** _**not**_ **Pay out Yield in Speculative Tokens**
 
-ETH-based Power Farms earn APY in ETH. Stable coin Power Farms earn APY in stable coins...it's that simple! We do have a WISE token, but it's not used for rewards. Wise Lending actually drives value to WISE by using its protocol fees to buy-and-burn WISE. (This is the opposite of the trend, which is using a hyper-inflationary token to drive users to the platform). See [WISE Token](../../wise-token/).
+ETH-based Power Farms earn APY in ETH. Stable coin Power Farms earn APY in stable coins...it's that simple! We do have a WISE token, but it's not used for rewards. Wise Lending actually drives value to WISE by using its protocol fees to buy-and-burn WISE. (This is the opposite of the trend, which is using a hyper-inflationary token to drive users to the platform). See [Wise.one](https://wise.one).
 
 #### 4) Power Farms are Scalable and Sustainable
 
 Power Farms are scalable, as long as their yield sources do not not become diluted. Since Power Farms are built on the most powerful yield sources in crypto such as staked ETH, Wise Lending can support billions in capital without becoming diluted.
 
-[PreviousWise Lending](../)[NextPendle Strategies](../pendle-strategies/)
-
-Last updated 9 months ago
+[Previous Wise Lending](../)  [Next Pendle Strategies](../pendle-strategies/)

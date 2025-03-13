@@ -29,10 +29,6 @@ Top pairs on Uniswap V2
 
 ## The Vision for WISE in the words of our Founder:
 
-*"First we gathered a pile of Ether from the community and merged it with WISE token via an ownerless Uniswap liquidity pool. Pairing our token with an un-ruggable pool of ETH ensured that, at the very least, WISE is supported by the ETH value in our pool. Then we got to work on our revenue-earning crypto apps that are designed to consistently buy-and-burn WISE.
-Once WISE is appreciating versus ETH, many projects will want to pair their token with WISE instead of ETH to piggy-back off our revenue streams. This is a really important catalyst for exponential growth in WISE.
-No traditional company can follow in our footsteps, because companies are not designed to build things they don't own or benefit from directly. By creating the Wise Ecosystem to efficiently reward users without gifting a slice of it to myself, we have eliminated any possible competition, because there is no arbitrage to be gained from relaunching the system. Instead, projects will simply join us by pairing their liquidity with WISE."* Peter Girr
+_"First we gathered a pile of Ether from the community and merged it with WISE token via an ownerless Uniswap liquidity pool. Pairing our token with an un-ruggable pool of ETH ensured that, at the very least, WISE is supported by the ETH value in our pool. Then we got to work on our revenue-earning crypto apps that are designed to consistently buy-and-burn WISE. Once WISE is appreciating versus ETH, many projects will want to pair their token with WISE instead of ETH to piggy-back off our revenue streams. This is a really important catalyst for exponential growth in WISE. No traditional company can follow in our footsteps, because companies are not designed to build things they don't own or benefit from directly. By creating the Wise Ecosystem to efficiently reward users without gifting a slice of it to myself, we have eliminated any possible competition, because there is no arbitrage to be gained from relaunching the system. Instead, projects will simply join us by pairing their liquidity with WISE."_ Peter Girr
 
-[PreviousWorld Mobile](/wise/world-mobile)[NextStaking WISE](/wise/wise-token/staking-wise)
-
-Last updated 9 months ago
+[Previous World Mobile](../world-mobile/) [Next Staking WISE](staking-wise/)

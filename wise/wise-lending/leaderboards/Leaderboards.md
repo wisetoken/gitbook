@@ -14,14 +14,11 @@ The prize pool is the total amount of rewards for the season. It can be viewed o
 
 The amount in the prize pool is directly correlated with the total value locked (TVL) of the entire platform. As Wise Lending grows, so will the pool!
 
-#### <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original">
-
 Once the prize pool is distributed, users can claim their share using the claim button in the widget on the bottom right of the screen. There is no time limit to claim, and additional rewards will stack up until claimed.
 
-Claiming Rewards
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Claiming rewards</p></figcaption></figure>
 
 #### For information about referrals, see [Referral System](../referral-system/)
 
-[PreviousPendle Strategies](../pendle-strategies/)[NextReferral System](../referral-system/)
+[Previous Pendle Strategies](../pendle-strategies/)  [Next Referral System](../referral-system/)
 
-Last updated 4 months ago
