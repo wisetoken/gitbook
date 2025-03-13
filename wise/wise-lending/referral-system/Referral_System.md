@@ -12,7 +12,7 @@ Our referral system is open-source and on-chain. Promoters can start growing the
 
 The info for your referral network can be seen in a widget on the right side of the screen. In that box you have a link to copy and share. Your friends and family will need to visit your link, connect their crypto wallet, and sign a message to join your network (no gas needed). Everyone should join a referral network because both the referrer and the referee get 10% extra points for participating.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Click here to Copy your unique Referral Link</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click here to Copy your unique Referral Link</p></figcaption></figure>
 
 To view your current network, click the "Show Active Referrals" button and you will see your Referral Breakdown.
 

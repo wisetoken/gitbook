@@ -6,7 +6,7 @@
 
 Our leaderboards are where we track and reward users' contribution to Wise Lending using a points system. The boards can be accessed by clicking the gem tab in the app, where you can toggle between the Ether and Stable Coin leaderboards. To start climbing ranks, simply deposit funds into Wise Lending. You can gain additional points by sharing your referral link with others, and you will earn **10%** of the points generated from the deposits of users in your network. There is no points penalty for withdrawing funds from Wise Lending, but you will stop earning points on those funds withdrawn.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Wise Lending Leaderboards</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wise Lending Leaderboards</p></figcaption></figure>
 
 #### Prize Pool
 
@@ -16,7 +16,7 @@ The amount in the prize pool is directly correlated with the total value locked 
 
 Once the prize pool is distributed, users can claim their share using the claim button in the widget on the bottom right of the screen. There is no time limit to claim, and additional rewards will stack up until claimed.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Claiming rewards</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Claiming rewards</p></figcaption></figure>
 
 #### For information about referrals, see [Referral System](../referral-system/)
 

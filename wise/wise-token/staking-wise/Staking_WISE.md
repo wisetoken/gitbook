@@ -8,44 +8,39 @@
 
 WISE stakers are rewarded for making WISE more scarce by locking it up. Staking rewards are funded with 75% of the annual WISE inflation (25% funds referrals). Unstaking WISE early is penalized, so staking WISE creates a supply shock and a predictable future price floor.
 
-To start a stake, go to [https://wise.one/staking/hub](https://wise.one/staking/hub). and click "Create WISE stake".\
-By default, the selector "I prefer this stake to be transferable" is off. \
-That means the stake is not transferable, but is scrapable.\
-If the selector "I prefer this stake to be transferable" is turned on, the stake is transferable (to another wallet or used DEFI project), but not scrapable.\
-In the near future, a full WISE stake version will be released (transferable and scrapable)
+To start a stake, go to [https://wise.one/staking/hub](https://wise.one/staking/hub). and click "Create WISE stake".
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>starting a WISE stake</p></figcaption></figure>
 
-Input the amount of ETH or WISE you wish to use for your stake (ETH will be converted to WISE for the stake if you select that option). Then input the desired stake length in days. On the right you will see two ways to increase the amount of shares on your stake. Shares directly affect the APY you will earn on your stake, so it is best to get all the bonuses you can. You gain an extra flat 10% APY from using a referral link (you can select "Wise team referral" in the referral section if you need one). Select "cookie referral addy" instead if you have used a link from a friend.
+The 5 green arrows are the settings, and the yellow are the bonuses.&#x20;
 
-![finalizing your WISE stake](staking-wise-a6fa75b2.jpg)
+Input the **Staking Amount** of ETH or WISE you wish to use for your stake (ETH will be converted to WISE for the stake if you select that option).
 
-finalizing your WISE stake
+Input the desired **Stake Duration** in days. The bonus increases based on the number of days following a piecewise linear progression (see the documentation).&#x20;
 
-The other way to increase your shares is to stake for a longer period of time. You can get an extra 5% bonus shares for every year you stake up to 25% for 5 years. A 10 year stake will earn significantly more than two back-to-back 5 year stakes, because you get to keep your original share price for double the time. Since share rate increases every time someone closes a stake, this will add up to significantly more APY over the final 5 years.
+If you entered the website with a referral link, you will see the 10% **Referral Bonus** \
+If not, you can choose a team referral address with the selector **I want to use team referral address** &#x20;
 
-\*\*HIGH Gas costs for starting/ending stakes:\*\*Our shares system and referral rewards make our staking contract much more complicated than a simple lock-up. Ending a stake costs much more than a simple swap, and the cost grows with the length of the stake. Holders must monitor Ethereum gas prices, start and end stakes during periods of low gas demand, and stake larger amounts ($5000+ for example).
+By default, the selector **I prefer this stake to be transferable** is off. \
+That means the stake is not transferable, but is scrapable.\
+If the selector **I prefer this stake to be transferable** is turned on, the stake is transferable (to another wallet or used DEFI project), but not scrapable.\
+In the near future, a full WISE stake version will be released (transferable and scrapable)
+
+**HIGH Gas costs for starting/ending stakes:**\*\*\
+Our shares system and referral rewards make our staking contract much more complicated than a simple lock-up. Ending a stake costs much more than a simple swap, and the cost grows with the length of the stake. Holders must monitor Ethereum gas prices, start and end stakes during periods of low gas demand, and stake larger amounts ($5000+ for example).
 
 ### Scraping interest on WISE stakes:
 
 The interest earned on WISE stakes can be collected at any time by scraping. This does not affect the principal amount of staked WISE, but it does reset the shares amount of the stake, meaning the shares advantage for staking earlier is reset as if the stake was started on the day you scrape. This will cause a significant reduction in APY for the remainder of your stake, so scraping is not recommended unless the stake is nearing maturity. Subsequent scrapes do cost significantly less gas, and closing scraped stakes will cost slightly reduce gas fees.
 
-![scraping WISE stakes](staking-wise-26dc06b4.jpg)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Click to see the current stake status and scrapable rewards</p></figcaption></figure>
 
-scraping WISE stakes
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Scrape or Terminate the stake</p></figcaption></figure>
 
-To scrape, click the magnifying glass on the right hand side of your stake, then scroll down on the left hand side of the pop-up to find the button to scrape the interest on your stake.
+### Terminate a WISE Stake Before Maturity:
 
-### Ending a WISE Stake Before Maturity:
+You can end your stake any time before maturity for a significant penalty. The penalty is equivalent to the percentage of time you have not completed on your stake. \
+For example, a 100 day stake ended on day 30 will cost 70% of your principal to end. The penalized WISE is distributed proportionally among the remaining WISE stakers. Interest earned on stakes is never penalized.\
+Note : if you create a stake one day, it will really begin at midnight that day. You can terminate it any time during that day without penalty. &#x20;
 
-You can end your stake any time before maturity for a significant penalty. The penalty is equivalent to the percentage of time you have not completed on your stake. For example a 100 day stake ended on day 30 will cost 70% of your principal to end. The penalized WISE is distributed proportionally among the remaining WISE stakers. Interest earned on stakes is never penalized.
-
-![Early End Staking](staking-wise-cfffe6ee.jpg)
-
-Early End Staking
-
-To end your stake, click the orange X on the right hand side of your stake, and then click the "TERMINATE STAKE" button on the pop-up.
-
-[PreviousWISE Token](../)[NextWISE referrals](../wise-referrals/)
-
-Last updated 9 months ago
+[Previous WISE Token](../)  [Next WISE referrals](../wise-referrals/)
