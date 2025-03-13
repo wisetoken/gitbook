@@ -33,8 +33,7 @@ WiseR will never have more than 1 billion supply, however, after people burn som
 
 There is an additional fee for minting WiseR after the auction. This allows new investors to purchase a WiseR position in what may otherwise be an illiquid buyers market. (Although the sellers are always liquid via the DAO contract).
 
-The Wise admin can swap ETH in the DAO for USDC and vice versa. This function is mainly there to preserve the value of the treasury during major market highs and only with the consensus of the DAO. This function is meant to be used sparingly (not to day trade). Funds cannot be removed from the treasury except to deposit on Wise Lending.
-Any WiseR holder who is in the minority vote and do not agree with the swapping of DAO funds between ETH/USDC can simply exit the DAO by burning WiseR and collecting their share of funds without penalty.
+The Wise admin can swap ETH in the DAO for USDC and vice versa. This function is mainly there to preserve the value of the treasury during major market highs and only with the consensus of the DAO. This function is meant to be used sparingly (not to day trade). Funds cannot be removed from the treasury except to deposit on Wise Lending. Any WiseR holder who is in the minority vote and do not agree with the swapping of DAO funds between ETH/USDC can simply exit the DAO by burning WiseR and collecting their share of funds without penalty.
 
 ## WiseR Governance
 
@@ -48,8 +47,4 @@ We use snapshot.org to vote on relevant topics concerning WiseR.
 
 ![WISE vs WISEr](wiser-token-51d15f6f.png)
 
-WISE vs WISEr
-
-[PreviousWISE referrals](/wise/wise-token/wise-referrals)[NextFundraising](/wise/fundraising)
-
-Last updated 9 months ago
+[Previous WISE referrals](../wise-token/wise-referrals/)  [Next Fundraising](../fundraising/)

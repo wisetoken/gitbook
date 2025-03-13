@@ -4,23 +4,28 @@ World Mobile is a mobile internet provider company that utilizes innovative tech
 
 ![World Mobile Vault on Wise Lending](world-mobile-7e27fa4d.jpg)
 
-World Mobile Vault on Wise Lending
-
 ## How it Works:
 
-To start earning 20% fixed APY on USDC, navigate to the [farming page](https://app.wiselending.com/farming) on Wise Lending, connect your browser wallet, and deposit USDC from your wallet. This will take ***two*** transactions, one for approval and one for depositing.
+To start earning 20% fixed APY on USDC, navigate to the [https://wise.one/vaults](https://wise.one/vaults) page, set your browser wallet on either Ethereum or Arbitrum network, then connect your wallet, and deposit USDC from your wallet. This will take _**two**_ transactions, one for approval and one for depositing.
 
-Note: Only 1 USDC deposit per wallet address is supported at this time.
+**Note**: You can open multiple deposit positions per wallet address.
 
 The World Mobile vault is CAPPED at $5M! Due to the incredible rate of fixed returns, it's advisable to quickly secure your position in the vault while there is still room available. The vault cap can only expand as fast as World Mobile.
 
-### Claiming Interest:
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Your World Mobile positions</p></figcaption></figure>
 
-Interest is claimable every 30 days after you have deposited your USDC principal, Use the blue button in the same place as you deposited to claim your interest.
+### Collecting Rewards:
+
+Interest is claimable every 30 days after you have deposited your USDC principal.\
+Use **Collect Rewards** button to the right of your deposit position line to claim your interest.
+
+### Sending a position to another wallet of DEFI protocol
+
+Those positions are NFTs that can be transfered. Use the **Send** button to transfer them.
 
 ### Liquidating Principal:
 
-Your USDC principal ***cannot*** be withdrawn, since it was used to purchase node infrastructure for the mobile network, however, you may sell your position in the vault on the secondary market. When you deposit USDC in the vault, you also mint an NFT to your wallet that represents your position. This NFT is required for claiming interest on your position. We do not anticipate liquidity being an issue since nodes have been trading above the purchase price due to high APY. The Wise team will personally assist as necessary any users wishing to exit their position in the vault.
+Your USDC principal _**cannot**_ be withdrawn, since it was used to purchase node infrastructure for the mobile network, however, you may sell your position in the vault on the secondary market. When you deposit USDC in the vault, you also mint an NFT to your wallet that represents your position. This NFT is required for claiming interest on your position. We do not anticipate liquidity being an issue since nodes have been trading above the purchase price due to high APY. The Wise team will personally assist as necessary any users wishing to exit their position in the vault.
 
 ### How Safe is the Vault from Attacks?
 
@@ -36,11 +41,9 @@ World Mobile has taken a different approach to building the infrastructure for p
 
 ![World Mobile Aerostat Technology](world-mobile-4d980a9c.jpg)
 
-World Mobile Aerostat Technology
-
 ### Sustainable and Recession-Proof Yield:
 
-In modern society, internet connectivity has become a need, not a want. We depend on it for everything from our jobs, to transportation, to communication, and many other aspects of our lives. People are willing to pay for internet connectivity as much as they are willing to pay for food and housing. For this reason, World Mobile's revenue model is extremely reliable and recession-proof. First of all, they are cheaper than conventional options, with people in developing areas of the world paying less than $2 per month for internet, and each plan is a rolling 1 year contract. This is why we are able to offer 20% fixed yield. If anything, we might be able to ***increase*** the fixed APY amount as World Mobile becomes more efficient!
+In modern society, internet connectivity has become a need, not a want. We depend on it for everything from our jobs, to transportation, to communication, and many other aspects of our lives. People are willing to pay for internet connectivity as much as they are willing to pay for food and housing. For this reason, World Mobile's revenue model is extremely reliable and recession-proof. First of all, they are cheaper than conventional options, with people in developing areas of the world paying less than $2 per month for internet, and each plan is a rolling 1 year contract. This is why we are able to offer 20% fixed yield. If anything, we might be able to _**increase**_ the fixed APY amount as World Mobile becomes more efficient!
 
 ### Can the APY ever change?
 
@@ -54,10 +57,8 @@ World Mobile shines brightest in places of the world that are considered develop
 
 ### The Starlink Question:
 
-One of the most common questions that comes up about World Mobile is if Starlink competes with or if they could render World Mobile obsolete. *Nothing could be further from the truth!* In fact, Startlink is complementary to World Mobile, since Starlink nodes are used on World Mobile aerostats. What's important to understand here is that internet satellites have a very different capability and role than terrestrial internet infrastructure, and this is not likely to change in the future simply because of physics. There is a big difference between satellites that are capable of providing coverage for emergency calls in rural areas, and being able to provide a powerful internet connection capable of streaming at high bandwidth to thousands of people in close proximity. The latter is best accomplished with infrastructure on the ground, like what World Mobile is doing. Satellites simply do not have that capability due to physics issues like "beam contention" and the fact that it's very expensive. World Mobile is able to provide high bandwidth internet to people in developing areas of the world for under $2 per month.
+One of the most common questions that comes up about World Mobile is if Starlink competes with or if they could render World Mobile obsolete. _Nothing could be further from the truth!_ In fact, Startlink is complementary to World Mobile, since Starlink nodes are used on World Mobile aerostats. What's important to understand here is that internet satellites have a very different capability and role than terrestrial internet infrastructure, and this is not likely to change in the future simply because of physics. There is a big difference between satellites that are capable of providing coverage for emergency calls in rural areas, and being able to provide a powerful internet connection capable of streaming at high bandwidth to thousands of people in close proximity. The latter is best accomplished with infrastructure on the ground, like what World Mobile is doing. Satellites simply do not have that capability due to physics issues like "beam contention" and the fact that it's very expensive. World Mobile is able to provide high bandwidth internet to people in developing areas of the world for under $2 per month.
 
 Watch our video about World Mobile
 
-[PreviousLASA AI](/wise/wise-lending/lasa-ai)[NextWISE Token](/wise/wise-token)
-
-Last updated 2 months ago
+[Previous LASA AI](../wise-lending/lasa-ai/)  [Next WISE Token](../wise-token/)

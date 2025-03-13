@@ -1,6 +1,6 @@
 # 🗣️WISE referrals
 
-1. [🪙WISE Token](../)
+[🪙WISE Token](../)
 
 ## 🗣️WISE referrals
 
@@ -12,7 +12,8 @@ You must refer $10,000 USD of WISE stakes in order to become a CMR and start ear
 
 ### How to get your Referral link:
 
-You can get your referral link by visiting [https://wise.one/staking/ref](https://app.wisetoken.net/refer) and clicking **Show Referral link**  button. It will have that format : https://wise.one/r/\<YOUR\_ADDRESS\_HERE>
+You can get your referral link by visiting [https://wise.one/staking/ref](https://app.wisetoken.net/refer) and clicking **Show Referral link**  button. It will have that format : https://wise.one/r/\<YOUR\_ADDRESS\_HERE>\
+**Note** : This is a unique link for either Wise Lending or Wise Staking.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Your referral link</p></figcaption></figure>
 
