@@ -1,9 +1,5 @@
 # Contracts
 
-1. [Developers](../)
-
-## Contracts
-
 Wise Lending:
 
 1. [WiseOracle](https://etherscan.io/address/0xf8A8EAe0206D36B9ac87Eaa9A229047085aF0178#code)
@@ -23,7 +19,7 @@ Wise Lending:
 
 [LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297)&#x20;
 
-&#x20;[LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code)&#x20;
+[LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code)&#x20;
 
 [Owl Town](https://etherscan.io/address/0xef897ae2477776131ef57aacae2cd10b574886fa#code)
 
