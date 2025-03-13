@@ -1,6 +1,8 @@
-1. [Developers](/wise/developers)
-
 # Contracts
+
+1. [Developers](../)
+
+## Contracts
 
 Wise Lending:
 
@@ -12,7 +14,6 @@ Wise Lending:
 6. [FeeManager](https://etherscan.io/address/0x3bab690277ce5eB3a4AEB0B3592536CAeb3Db92B#code)
 
 [Lido Power Farm](https://etherscan.io/address/0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a#code)
---------------------
 
 [WISE token](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6)
 
@@ -20,10 +21,10 @@ Wise Lending:
 
 [WISE staking](https://etherscan.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6)
 
-[LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297)
-[LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code)
+[LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297)&#x20;
+
+&#x20;[LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code)&#x20;
+
 [Owl Town](https://etherscan.io/address/0xef897ae2477776131ef57aacae2cd10b574886fa#code)
 
-[PreviousLenders FAQ](/wise/faq/lenders-faq)[NextApply for a job](/wise/developers/apply-for-a-job)
-
-Last updated 1 year ago
+[Previous Lenders FAQ](../../faq/lenders-faq/)  [Next Apply for a job](../apply-for-a-job/)
