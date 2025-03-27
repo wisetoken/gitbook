@@ -10,4 +10,4 @@ A: Yes you can as long as there are enough funds in the pool that aren't being b
 
 A: Absolutely not! Our contracts are completely decentralized by every sense of the word.
 
-[Previous Security FAQ](../security-faq/)  [Next Contracts](../../developers/contracts/)
+

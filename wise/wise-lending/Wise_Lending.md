@@ -38,5 +38,4 @@ Instead of percentage-based liquidations, fees are hard-capped at a profitable r
 
 A feature that makes your deposits untouchable, even in the event of a catastrophic liquidity draining event on the platform. Solely deposit funds are deposited into separate siloed vaults, that cannot be touched by borrowers. This feature means forfeiting earnings from borrowers, but lenders using solely deposit mode may still borrow against their deposits.
 
-[Previous The Wise Ecosystem](../)  [Next Power Farms](power-farms/)
 

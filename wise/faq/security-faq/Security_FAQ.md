@@ -14,4 +14,4 @@ A: Yes! You will find that it is even more decentralized than many protocols who
 
 A: Yes they are! Please find our audits for LiquidNFTs [here](https://github.com/wise-foundation/liquidnfts-audit-scope/tree/master/audit) and for WISE staking [here](https://wisetoken.net/Wise_Audit_Report.pdf). Audits are always good to have, but we have found that even the best auditing firms in the world aren't as good as our own internal testing (we know our own code the best). There have been dozens of multi-million dollar hacks on audited smart contracts every year, and it's important to understand that auditing firms are just businesses. They have disclaimers on their work, they don't offer insurance protection on contracts they have audited, and they won't necessarily offer any additional protection whatsoever.
 
-[Previous Fundraising](../../fundraising/)  [Next Lenders FAQ](../lenders-faq/)
+

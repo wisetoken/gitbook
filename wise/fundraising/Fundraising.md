@@ -6,4 +6,3 @@ The Wise Ecosystem was built on the premise of rewarding the community, not insi
 
 **Net revenue breakdown after funds are paid back** 10% DAO funds (WiseR) 90% buys WISE to either burn or deepen liquidity.
 
-[Previous WiseR Token](../wiser-token/)  [Next Security FAQ](../faq/security-faq/)

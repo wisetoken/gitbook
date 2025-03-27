@@ -33,5 +33,3 @@ Click the + sign on the right side of your referral stakes to select the ones yo
 You can also select (or deselect) multiple stakes to scrape. The click the **Collect** button at the right bottom.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Multiple referred stakes scraping</p></figcaption></figure>
-
-[Previous Staking WISE](../staking-wise/)  [Next WiseR Token](../../wiser-token/)

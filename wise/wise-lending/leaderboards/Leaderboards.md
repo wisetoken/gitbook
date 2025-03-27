@@ -19,6 +19,3 @@ Once the prize pool is distributed, users can claim their share using the claim 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Claiming rewards</p></figcaption></figure>
 
 #### For information about referrals, see [Referral System](../referral-system/)
-
-[Previous Pendle Strategies](../pendle-strategies/)  [Next Referral System](../referral-system/)
-

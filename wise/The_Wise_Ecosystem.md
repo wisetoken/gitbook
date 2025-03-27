@@ -2,7 +2,7 @@
 
 The fairest, safest, and most decentralized DeFi ecosystem ever built, and the best place to earn more crypto.
 
-## WiseLending.com - Our Flagship dApp to Lend/Borrow/Earn
+## Wise.one - Our Flagship dApp to Lend/Borrow/Earn
 
 The Wise Lending protocol is a one-stop-shop for every-day financial needs in crypto. Deposit crypto to start earning, and grow your portfolio without having to lock any funds. Borrow against deposits at will, and access competitive yield-farming strategies, by opening a Power Farm leveraged position, built using tried and battle tested yield giants.
 
@@ -18,4 +18,3 @@ WISE token, launched Nov 2020, is unlike any other token in existence. It has $1
 
 Joining the Wise Ecosystem is easy if your project has a token and maintains a Uniswap liquidity pool. Simply pair your token with WISE for liquidity instead of ETH and your token will piggy-back on the value created by our Ecosystem. This can be done as part of a launch plan, or retroactively after launch, if your team has control of the liquidity pool. If your project is a token-less project, you can still join by maintaining a portion of your treasury/balance sheet in WISE. Grants/developer support are available on a case-by-case basis for those who wish to join our ecosystem.
 
-[Next Wise Lending](wise-lending/)

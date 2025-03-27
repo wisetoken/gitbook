@@ -22,4 +22,3 @@ Remember, it's not about the number of referrals, but about the amount of funds 
 
 It doesn't matter which blockchain is used for depositing funds (Ethereum, Arbitrum, Base). The same amount of funds will earn the same amount of points on either blockchain.
 
-[Previous Leaderboards](../leaderboards/)  [Next Decentralization Rank](../decentralization-rank/)

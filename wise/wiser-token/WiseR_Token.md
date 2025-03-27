@@ -47,4 +47,3 @@ We use snapshot.org to vote on relevant topics concerning WiseR.
 
 ![WISE vs WISEr](wiser-token-51d15f6f.png)
 
-[Previous WISE referrals](../wise-token/wise-referrals/)  [Next Fundraising](../fundraising/)

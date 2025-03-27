@@ -8,4 +8,4 @@ Hashlock: [https://www.hashlock.com.au/bug-bounty/wise-lending](https://www.hash
 
 **FeeManager Arbitrum:** [https://arbiscan.io/address/0x90a022796798f9dbA1Da0f8645234B284d4E8EC6](https://arbiscan.io/address/0x90a022796798f9dbA1Da0f8645234B284d4E8EC6)
 
-[Previous Apply for a job](../apply-for-a-job/)
+

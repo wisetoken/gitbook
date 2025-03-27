@@ -26,4 +26,3 @@ Our Pendle Power Farms charge a 1-3% initiation fee (e.g. $10-$30 on $1000 depos
 
 ### What are the liquidation risks? See [Power Farms](../power-farms/)
 
-[Previous Power Farms](../power-farms/)  [Next Leaderboards](../leaderboards/)

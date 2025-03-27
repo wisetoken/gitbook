@@ -61,6 +61,6 @@ ETH-based Power Farms earn APY in ETH. Stable coin Power Farms earn APY in stabl
 
 #### 4) Power Farms are Scalable and Sustainable
 
-Power Farms are scalable, as long as their yield sources do not not become diluted. Since Power Farms are built on the most powerful yield sources in crypto such as staked ETH, Wise Lending can support billions in capital without becoming diluted.
+Power Farms are scalable, as long as their yield sources do not become diluted. Since Power Farms are built on the most powerful yield sources in crypto such as staked ETH, Wise Lending can support billions in capital without becoming diluted.
 
-[Previous Wise Lending](../)  [Next Pendle Strategies](../pendle-strategies/)
+

@@ -30,5 +30,4 @@ Decentralization rank is meant to analyze the risk profile of DeFi projects, sim
 
 Additional categories that could be added include Oracle provider, Oracle back-up, liquidation mechanism, verified contracts, audits, on chain.
 
-[Previous Referral System](../referral-system/)  [Next LASA AI](../lasa-ai/)
 
