@@ -1,5 +1,10 @@
 get_gitbook_md.py
+create_pdf.py
 info git.txt
+wiseone.pdf
+merged_for_vscode.md
+merged_for_vscode.pdf
+create_merge_md_for_vscode.py
 
 # Ignorer les fichiers temporaires du système
 .DS_Store
