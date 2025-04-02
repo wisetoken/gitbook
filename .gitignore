@@ -2,8 +2,8 @@ get_gitbook_md.py
 create_pdf.py
 info git.txt
 wiseone.pdf
-merged_for_vscode.md
-merged_for_vscode.pdf
+WiseOne_from_merged.md
+WiseOne_from_merged.pdf
 create_merge_md_for_vscode.py
 
 # Ignorer les fichiers temporaires du système

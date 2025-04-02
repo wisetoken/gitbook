@@ -4,7 +4,8 @@
 
 Active Bug Bounties for Wise Lending (up to $100k)
 
-Hashlock: [https://www.hashlock.com.au/bug-bounty/wise-lending](https://www.hashlock.com.au/bug-bounty/wise-lending) Blockwarden: [https://blockwarden.io/bounties/wise](https://blockwarden.io/bounties/wise) Bug bounties are rewarded for critical issues found in the live Wise Lending contracts with funds at risk. If a duplicate issue is submitted to multiple bounty programs, only the first submission will be honored. 
+Hashlock: [https://www.hashlock.com.au/bug-bounty/wise-lending](https://www.hashlock.com.au/bug-bounty/wise-lending) 
+Blockwarden: [https://blockwarden.io/bounties/wise](https://blockwarden.io/bounties/wise) Bug bounties are rewarded for critical issues found in the live Wise Lending contracts with funds at risk. If a duplicate issue is submitted to multiple bounty programs, only the first submission will be honored. 
 Contracts in scope: 
 **WiseOracleHub Arbitrum:** [https://arbiscan.io/address/0x5E93f02b629EfdCf889e544126167709206b92a8](https://arbiscan.io/address/0x5E93f02b629EfdCf889e544126167709206b92a8) 
 **PositionNFTs Arbitrum:** [https://arbiscan.io/address/0x6Cd8C86f5253F49c06FE913182E14DAD313298F9](https://arbiscan.io/address/0x6Cd8C86f5253F49c06FE913182E14DAD313298F9) 
