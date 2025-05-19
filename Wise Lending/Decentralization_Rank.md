@@ -1,4 +1,4 @@
-## 🏆​ Decentralization Rank
+## 🏆&nbsp;Decentralization Rank
 
 A ranking system for DeFi protocols based on decentralization.
 
