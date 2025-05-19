@@ -1,8 +1,4 @@
-# 🔁Referral System
-
-[💰Wise Lending](../)
-
-## 🔁Referral System
+## 🔁&nbsp;Referral System
 
 ### No Personal Information Needed!
 
