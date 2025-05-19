@@ -1,4 +1,4 @@
-## 🥩&nbsp;Staking WISE
+# 🥩&nbsp;Staking WISE
 
 ### How to Create WISE stakes:
 
