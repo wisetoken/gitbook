@@ -1,4 +1,4 @@
-# 🪙WISE Token
+# 🪙 WISE Token
 
 WISE is the reserve token of our ecosystem, and our massive WISE/ETH liquidity pool on Uniswap allows others to pair their token with WISE yet still swap out of their token into ETH seamlessly.
 
