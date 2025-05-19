@@ -1,4 +1,8 @@
-## 🏆&nbsp;Decentralization Rank
+# 🏆Decentralization Rank
+
+[💰Wise Lending](../)
+
+## 🏆Decentralization Rank
 
 A ranking system for DeFi protocols based on decentralization.
 

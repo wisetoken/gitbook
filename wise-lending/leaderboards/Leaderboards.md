@@ -1,8 +1,8 @@
-# 💎 Leaderboards
+# 💎Leaderboards
 
 [💰Wise Lending](../)
 
-## 💎 Leaderboards
+## 💎Leaderboards
 
 Our leaderboards are where we track and reward users' contribution to Wise Lending using a points system. The boards can be accessed by clicking the gem tab in the app, where you can toggle between the Ether and Stable Coin leaderboards. To start climbing ranks, simply deposit funds into Wise Lending. You can gain additional points by sharing your referral link with others, and you will earn **10%** of the points generated from the deposits of users in your network. There is no points penalty for withdrawing funds from Wise Lending, but you will stop earning points on those funds withdrawn.
 
