@@ -1,8 +1,8 @@
-# 🧠Pendle Strategies
+# 🧠 Pendle Strategies
 
 1. [💰Wise Lending](../)
 
-## 🧠Pendle Strategies
+## 🧠 Pendle Strategies
 
 Pendle is in the business of augmenting existing yield tokens, which makes them the clear choice over using any other yield sources directly, and there are currently no competitors to Pendle.
 
