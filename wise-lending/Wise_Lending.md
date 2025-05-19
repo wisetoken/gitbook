@@ -1,4 +1,4 @@
-# 💰 Wise Lending
+# 💰Wise Lending
 
 A DeFi liquidity market that allows users to supply crypto and start earning a variable APY from borrowers. Wise Lending excels at capital efficiency and yield optimization.
 

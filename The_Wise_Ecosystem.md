@@ -1,4 +1,4 @@
-# 🌐 The Wise Ecosystem
+# 🌐The Wise Ecosystem
 
 The fairest, safest, and most decentralized DeFi ecosystem ever built, and the best place to earn more crypto.
 

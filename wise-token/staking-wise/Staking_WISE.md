@@ -1,4 +1,8 @@
-## 🥩 Staking WISE
+# 🥩Staking WISE
+
+[🪙WISE Token](../)
+
+## 🥩Staking WISE
 
 ### How to Create WISE stakes:
 
