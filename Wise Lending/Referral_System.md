@@ -1,4 +1,4 @@
-## 🔁 Referral System
+## :repeat: Referral System
 
 ### No Personal Information Needed!
 
