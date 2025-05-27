@@ -1,6 +1,6 @@
-# 🦉&nbsp;WISE Token: The Heart of the Wise Ecosystem
+# 🦉⋅WISE Token
 
-[!NOTE] WISE Token is the foundational reserve asset of the Wise ecosystem, designed to foster sustainable growth and provide deep liquidity.
+WISE Token is the foundational reserve asset of the Wise ecosystem, designed to foster sustainable growth and provide deep liquidity.
 
 ## Overview
 
@@ -14,21 +14,27 @@ WISE Token serves as the reserve token within the Wise ecosystem. Its key featur
 
 ### Fair Launch & Locked Liquidity
 
-[!NOTE] 100% of the ETH raised during the WISE launch event was used to create the WISE/ETH liquidity pool, and the LP tokens were burned, permanently locking the liquidity.
+<div class="gitbook-info">
+<p><img src="../../.gitbook/assets/information.svg" alt="" data-size="line"> <strong>Fair Launch</strong> refers to 100% of the ETH raised during the WISE launch event being used to create the WISE/ETH liquidity pool, and the LP tokens were burned, permanently locking the liquidity.</p>
+</div>
 
 *   **Transparent Auction:** Launched via a transparent auction event in November-December 2020.
 *   **Locked Liquidity:** The WISE/ETH liquidity pool on Uniswap is permanently locked, ensuring stability.
 
 ### Buy & Burn Mechanism
 
-[!NOTE] Revenue generated from the Wise ecosystem is used to buy and burn WISE tokens, reducing the token supply and potentially increasing its value.
+<div class="gitbook-info">
+<p><img src="../../.gitbook/assets/information.svg" alt="" data-size="line"> <strong>Buy & Burn</strong> refers to revenue generated from the Wise ecosystem being used to buy and burn WISE tokens, reducing the token supply and potentially increasing its value.</p>
+</div>
 
 *   **Deflationary:** A portion of Wise ecosystem revenue is used to buy and burn WISE tokens.
 *   **Value Accrual:** This mechanism aims to increase the value of WISE over time.
 
 ### Community & Distribution
 
-[!NOTE] WISE was designed with a focus on community distribution and sustainable growth, avoiding large team allocations and high inflation rates.
+<div class="gitbook-info">
+<p><img src="../../.gitbook/assets/information.svg" alt="" data-size="line"> <strong>Community Distribution</strong> refers to WISE being designed with a focus on broad community participation and sustainable growth, avoiding large team allocations and high inflation rates.</p>
+</div>
 
 *   **Community-Oriented:** Launched with a focus on broad community distribution.
 *   **Sustainable Inflation:** Designed with a measured inflation schedule.
@@ -36,14 +42,22 @@ WISE Token serves as the reserve token within the Wise ecosystem. Its key featur
 ## The Vision for WISE (from Founder Peter Girr)
 
 > "We started by collecting Ether from the community and creating a WISE/ETH liquidity pool on Uniswap where we burned the LP tokens to secure the liquidity. This approach gives WISE token a foundation backed by the ETH in the pool. We then developed revenue-generating DeFi applications that use a portion of their fees to buy and burn WISE tokens. As this mechanism continues, we believe WISE may appreciate against ETH, potentially making it attractive for other projects to pair their tokens with WISE. This could create a network effect that benefits the entire ecosystem. By building an open system that focuses on community value rather than concentrating benefits to founders, we're aiming to create a sustainable model that stands apart from traditional approaches."
-> 
+>
 > — Peter Girr
 
 ## Key Terms
 
-*   **Liquidity:** The ease with which WISE can be bought and sold on exchanges.
-*   **Buy & Burn:** A mechanism where tokens are purchased from the market and permanently removed from circulation.
-*   **Inflation:** The rate at which new WISE tokens are created.
+<div class="gitbook-info">
+<p><img src="../../.gitbook/assets/information.svg" alt="" data-size="line"> <strong>Liquidity</strong> refers to the ease with which WISE can be bought and sold on exchanges.</p>
+</div>
+
+<div class="gitbook-info">
+<p><img src="../../.gitbook/assets/information.svg" alt="" data-size="line"> <strong>Buy & Burn</strong> refers to a mechanism where tokens are purchased from the market and permanently removed from circulation.</p>
+</div>
+
+<div class="gitbook-info">
+<p><img src="../../.gitbook/assets/information.svg" alt="" data-size="line"> <strong>Inflation</strong> refers to the rate at which new WISE tokens are created.</p>
+</div>
 
 ## WISE Token at a Glance
 

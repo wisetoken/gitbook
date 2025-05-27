@@ -1,4 +1,4 @@
-# 📃⋅Wise Contracts
+# 📃⋅All Wise Contracts
 
 This page lists key smart contract addresses for the Wise ecosystem, organized for clarity and ease of use.
 
@@ -26,14 +26,32 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 | [WiseSecurity](https://arbiscan.io/address/0x67dae107eCF474F0D5B7d8aD45490608a5AdbE2A#code) | `0x67dae107eCF474F0D5B7d8aD45490608a5AdbE2A` |
 | [FeeManager](https://arbiscan.io/address/0x90a022796798f9dbA1Da0f8645234B284d4E8EC6#code) | `0x90a022796798f9dbA1Da0f8645234B284d4E8EC6` |
 
+## ERC20 Vault Contracts
+
+### Ethereum Network
+
+| Contract Name        | Address                                      |
+|----------------------|----------------------------------------------|
+| [USDC ERC20 Vault](https://etherscan.io/token/0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd) | `0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd` |
+| [USDT ERC20 Vault](https://etherscan.io/token/0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D) | `0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D` |
+
+### Arbitrum Network
+
+| Contract Name        | Address                                      |
+|----------------------|----------------------------------------------|
+| [USDC ERC20 Vault](https://arbiscan.io/token/0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167) | `0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167` |
+| [USDT ERC20 Vault](https://arbiscan.io/token/0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9) | `0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9` |
+
 ## Other Key Contracts
 
-| Contract Name        | Network   | Address                                      |
-|----------------------|-----------|----------------------------------------------|
-| [Lido Power Farm](https://etherscan.io/address/0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a#code) | Ethereum  | `0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a` |
-| [WISE token](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | Ethereum  | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
-| [Liquidity transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | Ethereum  | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
-| [WISE staking](https://etherscan.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6) | Ethereum  | `0x66a0f676479cee1d7373f3dc2e2952778bff5bd6` |
-| [LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297) | Ethereum  | `0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297` |
-| [LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code) | Ethereum  | `0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e` |
-| [Owl Town](https://etherscan.io/address/0xef897ae2477776131ef57aacae2cd10b574886fa#code) | Ethereum  | `0xef897ae2477776131ef57aacae2cd10b574886fa` |
+### Ethereum Network
+
+| Contract Name        | Address                                      |
+|----------------------|----------------------------------------------|
+| [Original Power Farm](https://etherscan.io/address/0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a#code) | `0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a` |
+| [WISE Token](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
+| [Liquidity Transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
+| [WISE Staking](https://etherscan.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6) | `0x66a0f676479cee1d7373f3dc2e2952778bff5bd6` |
+| [LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297) | `0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297` |
+| [LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code) | `0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e` |
+| [Owl Town](https://etherscan.io/address/0xef897ae2477776131ef57aacae2cd10b574886fa#code) | `0xef897ae2477776131ef57aacae2cd10b574886fa` |
