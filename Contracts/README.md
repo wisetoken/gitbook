@@ -1,4 +1,6 @@
-# 📃⋅All Wise Contracts
+# 📃&nbsp;All Wise Contracts
+
+[« Back to The WISE Ecosystem](../README.md)
 
 This page lists key smart contract addresses for the Wise ecosystem, organized for clarity and ease of use.
 
