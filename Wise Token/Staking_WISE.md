@@ -1,4 +1,4 @@
-# 🥩Staking WISE
+# 🥩⋅Staking WISE
 
 [🪙WISE Token](../)
 
