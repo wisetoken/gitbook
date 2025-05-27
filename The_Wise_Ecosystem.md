@@ -1,8 +1,8 @@
-# 🌐 The WISE Ecosystem
+# 🌍The WISE Token Ecosystem
 
 A decentralized finance (DeFi) ecosystem designed to provide sustainable yields, borrowing options, and value growth through protocol revenue sharing.
 
-## Wise.one – The Aggregator for WISE Ecosystem
+## Wise.one – The Aggregator for WISE Token Ecosystem
 
 Wise.one serves as the primary interface for interacting with the WISE ecosystem. Acting as a non-custodial aggregator, it brings together lending, borrowing, staking, and yield farming across multiple protocols and chains. Users benefit from a single point of access to strategies and tools built on top of the core WISE smart contracts — all without giving up control of their assets.
 
@@ -26,14 +26,6 @@ Launched in 2020, the WISE token is engineered to be one of the most decentraliz
 
 WISE is paired with deep ETH liquidity, creating a **price floor** and aligning the token’s long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.
 
-As of May 2025:
-
-- **Current Price**: $0.15 USD
-- **Market Cap**: Approximately $6.39 million
-- **Circulating Supply**: 41 million WISE
-- **Total Supply**: 343 million WISE
-- **Maximum Supply**: 600 million WISE
-
 ## Governance and Revenue Sharing
 
 WISE’s design removes centralized upgrade keys and proxy control. All contract logic is immutable and enforced entirely on-chain. Governance decisions are executed via a DAO that receives 10% of protocol revenue. Any changes to the ecosystem happen only through token-holder proposals and on-chain votes — not multisig interventions or admin calls.
@@ -42,7 +34,7 @@ The protocol’s revenue model is designed to benefit WISE holders. **90% of all
 
 ## Ecosystem Integration Opportunities
 
-Projects can benefit from the WISE ecosystem in multiple ways:
+Projects can benefit from the WISE Token ecosystem in multiple ways:
 
 - **Token projects** can pair their tokens with WISE (instead of ETH) to gain access to deeper liquidity, exposure to the buy-and-burn flywheel, and a decentralized value anchor.
 - **Treasury-based projects** can hold WISE as part of their reserves to tap into long-term ETH-backed liquidity.
