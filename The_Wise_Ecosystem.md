@@ -1,20 +1,75 @@
-# 🌐The Wise Ecosystem
+# 🌐 The WISE Ecosystem
 
-The fairest, safest, and most decentralized DeFi ecosystem ever built, and the best place to earn more crypto.
+A decentralized finance (DeFi) ecosystem designed to provide sustainable yields, borrowing options, and value growth through protocol revenue sharing.
 
-## Wise.one - Our Flagship dApp to Lend/Borrow/Earn
+## Wise.one – The Aggregator for WISE Ecosystem
 
-The Wise Lending protocol is a one-stop-shop for every-day financial needs in crypto. Deposit crypto to start earning, and grow your portfolio without having to lock any funds. Borrow against deposits at will, and access competitive yield-farming strategies, by opening a Power Farm leveraged position, built using tried and battle tested yield giants.
+Wise.one serves as the primary interface for interacting with the WISE ecosystem. Acting as a non-custodial aggregator, it brings together lending, borrowing, staking, and yield farming across multiple protocols and chains. Users benefit from a single point of access to strategies and tools built on top of the core WISE smart contracts — all without giving up control of their assets.
 
-## $WISE Token - The Reserve Token of our Ecosystem
+The platform supports:
 
-WISE token, launched Nov 2020, is unlike any other token in existence. It has $1/4 Billion in locked Uniswap liquidity and a price floor in ETH. WISE tokens are NOT used to pay out base rewards to our dApp users (users earn base yield in the same assets they deposit), WISE is NOT hyper-inflationary, and WISE does NOT have any whale wallets. **WISE is an ideal reserve token.**
+- **Depositing assets** to earn real yield in the same token.
+- **Borrowing against deposits** without needing to sell.
+- **Staking WISE and partner tokens** for enhanced rewards.
+- **Leveraged yield farming** via Power Farm integrations.
+- **Real-time analytics**, portfolio tracking, and on-chain transparency.
 
-## Driving Value back to the Community, not Insiders
+Wise.one is an access layer, not a custodian. All logic is enforced on-chain, and user funds remain in their control at all times.
 
-90% of Wise Lending's revenue is committed to buying and burning WISE tokens (the remaining 10% goes to the DAO). WISE already has a solid foundation of value from its ETH price floor and lack of whale wallets, so this stream of buy-and-burn revenue translates directly to the growth of the WISE market cap. Join an ecosystem that efficiently and effectively rewards the community, not insiders.
+## $WISE Token – A Decentralized Reserve Asset
 
-## How can your Project benefit from the Wise Ecosystem?
+Launched in 2020, the WISE token is engineered to be one of the most decentralized assets in DeFi:
 
-Joining the Wise Ecosystem is easy if your project has a token and maintains a Uniswap liquidity pool. Simply pair your token with WISE for liquidity instead of ETH and your token will piggy-back on the value created by our Ecosystem. This can be done as part of a launch plan, or retroactively after launch, if your team has control of the liquidity pool. If your project is a token-less project, you can still join by maintaining a portion of your treasury/balance sheet in WISE. Grants/developer support are available on a case-by-case basis for those who wish to join our ecosystem.
+- **No team wallets or insider allocations**.
+- **No ICO or token sale**; 100% of the initial supply was distributed through a fair launch via Uniswap.
+- **Immutable smart contracts** with no admin keys or owner privileges.
 
+WISE is paired with deep ETH liquidity, creating a **price floor** and aligning the token’s long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.
+
+As of May 2025:
+
+- **Current Price**: $0.15 USD
+- **Market Cap**: Approximately $6.39 million
+- **Circulating Supply**: 41 million WISE
+- **Total Supply**: 343 million WISE
+- **Maximum Supply**: 600 million WISE
+
+## Governance and Revenue Sharing
+
+WISE’s design removes centralized upgrade keys and proxy control. All contract logic is immutable and enforced entirely on-chain. Governance decisions are executed via a DAO that receives 10% of protocol revenue. Any changes to the ecosystem happen only through token-holder proposals and on-chain votes — not multisig interventions or admin calls.
+
+The protocol’s revenue model is designed to benefit WISE holders. **90% of all platform revenue is used to buy and burn WISE tokens**, creating long-term deflationary pressure. The remaining 10% is allocated to the Wise DAO for governance and ecosystem development. This mechanism ensures that increased usage directly contributes to reducing WISE supply and reinforcing value alignment between users and the protocol.
+
+## Ecosystem Integration Opportunities
+
+Projects can benefit from the WISE ecosystem in multiple ways:
+
+- **Token projects** can pair their tokens with WISE (instead of ETH) to gain access to deeper liquidity, exposure to the buy-and-burn flywheel, and a decentralized value anchor.
+- **Treasury-based projects** can hold WISE as part of their reserves to tap into long-term ETH-backed liquidity.
+- **Non-token projects** can still participate by integrating with Wise.one, contributing protocol usage, or applying for DAO-supported grants.
+
+Grants, technical integrations, and community support are available for projects that align with the ecosystem’s principles of decentralization, transparency, and sustainability.
+
+## Legacy Dashboards
+
+Previous interfaces such as WiseLending and WiseToken.net are considered legacy dashboards. While they may still provide access to certain functionalities, Wise.one offers a more comprehensive and up-to-date experience for users engaging with the WISE ecosystem.
+
+## Why Choose WISE?
+
+Unlike typical DeFi ecosystems, WISE doesn’t rely on:
+
+- Centralized or upgradable contracts.
+- VC-funded growth.
+- Unsustainable emissions.
+- Custodial wrappers or synthetic assets.
+
+It offers a blueprint for what a truly decentralized, community-driven, and self-sustaining DeFi economy can look like — and Wise.one is your gateway to participate.
+
+---
+
+**Resources:**
+
+- [Uniswap WISE/ETH Pool](https://app.uniswap.org/explore/pools/ethereum/0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E)
+- [Coinbase WISE Overview](https://www.coinbase.com/price/wise)
+- [CoinGecko WISE Page](https://www.coingecko.com/en/coins/wise)
+- [Etherscan WISE Token Tracker](https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6)
