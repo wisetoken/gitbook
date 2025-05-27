@@ -1,6 +1,6 @@
 # ❓&nbsp;Frequently Asked Questions
 
-[« Back to The WISE Ecosystem](/)
+[« Back to The WISE Ecosystem](/the-wise-ecosystem)
 
 Welcome to the FAQ section. Here you can find answers to common questions about the Wise ecosystem and its various components.
 

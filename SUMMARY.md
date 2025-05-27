@@ -1,10 +1,10 @@
 # Summary
 
-* [🌍&nbsp;The WISE Ecosystem](/)
+* [🌍&nbsp;The WISE Ecosystem](/the-wise-ecosystem)
 * [📃&nbsp;All Wise Contracts](Contracts/README.md)
 * [🦉&nbsp;WISE Token](Wise%20Token/README.md)
   * [Staking WISE](Wise%20Token/Staking_WISE.md)
-  * [WISE Referrals](Wise%20Token/WISE_referrals.md)
+  * [WISE Referrals](Wise%20Token/WISE_Referrals.md)
 * [💵&nbsp;Wise Lending](Wise%20Lending/README.md)
   * [Wise Lending Overview](Wise%20Lending/Wise_Lending.md)
   * [Power Farms](Wise%20Lending/Power_Farms.md)

@@ -1,6 +1,6 @@
-# 💵⋅Wise Lending
+# 💵&nbsp;Wise Lending
 
-[« Back to The WISE Ecosystem](/)
+[« Back to The WISE Ecosystem](/the-wise-ecosystem)
 
 Welcome to the Wise Lending section. Here you can find detailed information about the various components and features of the Wise Lending platform.
 

@@ -1,6 +1,6 @@
 # 🪙&nbsp;WiseR Token
 
-[« Back to The WISE Ecosystem](/)
+[« Back to The WISE Ecosystem](/the-wise-ecosystem)
 
 WiseR is a special and very scarce VIP token for the WISE community that gets boosted APY, airdrops, and that can be burnt to claim a portion of DAO funds.
 

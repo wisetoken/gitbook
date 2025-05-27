@@ -1,6 +1,6 @@
 # 🦉⋅WISE Token
 
-[« Back to The WISE Ecosystem](/)
+[« Back to The WISE Ecosystem](/the-wise-ecosystem)
 
 WISE Token is the foundational reserve asset of the Wise ecosystem, designed to foster sustainable growth and provide deep liquidity.
 
