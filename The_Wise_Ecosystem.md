@@ -1,4 +1,4 @@
-# 🌍⋅The WISE Token Ecosystem
+# 🌍⠀The WISE Token Ecosystem
 
 A decentralized finance (DeFi) ecosystem designed to provide sustainable yields, borrowing options, and value growth through protocol revenue sharing.
 
