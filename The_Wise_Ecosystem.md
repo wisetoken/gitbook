@@ -50,10 +50,6 @@ Projects can benefit from the WISE ecosystem in multiple ways:
 
 Grants, technical integrations, and community support are available for projects that align with the ecosystem’s principles of decentralization, transparency, and sustainability.
 
-## Legacy Dashboards
-
-Previous interfaces such as WiseLending and WiseToken.net are considered legacy dashboards. While they may still provide access to certain functionalities, Wise.one offers a more comprehensive and up-to-date experience for users engaging with the WISE ecosystem.
-
 ## Why Choose WISE?
 
 Unlike typical DeFi ecosystems, WISE doesn’t rely on:
