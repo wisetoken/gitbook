@@ -1,12 +1,10 @@
-# 🏆Decentralization Rank
+# 🏆⋅Decentralization Rank
 
-[💰Wise Lending](../)
+Evaluating the decentralization of DeFi protocols is an important aspect of understanding their risk profiles and the trust assumptions involved when interacting with them. This page offers a comparative perspective on various protocols, focusing on key metrics related to decentralization.
 
-## 🏆Decentralization Rank
+The framework presented here aims to assist users in their due diligence. It's inspired by resources like [L2beat](https://l2beat.com/scaling/summary), which provides transparency for Layer 2 solutions. Decentralization is a complex and multifaceted concept, and the information below represents one approach to its assessment. Understanding these characteristics can help clarify how different protocols manage security, governance, and operational changes.
 
-A ranking system for DeFi protocols based on decentralization.
-
-Decentralization rank is meant to analyze the risk profile of DeFi projects, similar to how [L2beat](https://l2beat.com/scaling/summary) shows risk profiles for layer 2 blockchains and bridges. This information should be used as part of a due diligence process before using a platform, and can also shed light on why we chose not to build on top of certain other projects that lack decentralization.
+Below is a table comparing different protocols across several attributes relevant to decentralization:
 
 | Name         | Upgradability | Admin Power | Real Yield |
 | ------------ | ------------- | ----------- | ---------- |
@@ -20,14 +18,19 @@ Decentralization rank is meant to analyze the risk profile of DeFi projects, sim
 | Penpie       | Yes           | High        | Partial    |
 | Stella       | Yes           | High        | Partial    |
 
-**Upgradability** refers to whether the code of the contract is "set-in-stone" and unchangeable, or if the admin can upgrade the code at will. The middle ground is code that can be upgraded, but only after a certain time delay, which may or may not be useful for users to withdraw their funds if necessary.
+**Key Terms Explained:**
 
-**Admin Power** refers to functions in the contracts that admin control. Of course the admin has unfettered access to change the code at will in an upgradable contract, but contracts that cannot be upgraded can still carry grave risks, if the admin has control over powerful functions that can access or manipulate user deposits.
+*   **Upgradability:** This assesses whether the core smart contract code is immutable (cannot be changed after deployment) or if it can be modified by an admin, a multi-sig, or a governance vote.
+    *   **No:** Indicates that the primary logic of the deployed contracts is generally not designed to be changed.
+    *   **Yes:** Indicates that mechanisms exist to upgrade or alter the contract logic.
+    *   **Time Delay:** Some protocols implement a mandatory waiting period before an upgrade can take effect. This can provide users with an opportunity to review changes and react, though the practical ability to withdraw funds or mitigate risk depends on various factors.
 
-**Real Yield** refers to how much of the APY is coming from sustainable means, such as transaction fees or staked ETH rewards vs valueless tokens. Many protocols pad rewards with their own tokens, because the team either can mint more tokens for free, or has control a treasury of pre-mined tokens.
+*   **Admin Power:** This considers the extent of control that administrative roles (e.g., team multi-sigs, specific admin keys) have over the protocol's operation.
+    *   **Low:** Administrative functions are typically limited, for example, to adjusting minor, non-critical parameters or executing routine maintenance functions governed by strict rules.
+    *   **High:** Administrative roles have significant capabilities, which might include pausing core functionalities, changing critical parameters that affect user funds or risk, or even directly managing aspects of the protocol that could impact users significantly.
 
-**Tokenomics** refers to the quality of the token design, which is a combination of distribution, intrinsic value, inflation, and liquidity. A well distributed token is better, because there are less whales, which means less risk of price manipulation. Intrinsic value is something hardly any tokens have, outside of WISE, which is backed by ETH (most tokens are backed by nothing but speculation and brand). Tokens with less inflation are more sustainable, and slight deflation is ideal. Liquidity is arguably the most important aspect of tokenomics, and more is better. Serious market cap growth cannot happen without deep liquidity.
+*   **Real Yield:** This distinguishes whether the yield distributed to users primarily originates from organic protocol revenues (e.g., trading fees, interest paid by borrowers) as opposed to being heavily reliant on the protocol's own token emissions.
+    *   **Yes:** Suggests that yield is largely sustained by the economic activity within the protocol.
+    *   **Partial:** Indicates a mix, where yield comes from both protocol revenues and token incentives.
 
-Additional categories that could be added include Oracle provider, Oracle back-up, liquidation mechanism, verified contracts, audits, on chain.
-
-
+This comparative overview is intended as a starting point for research. Evaluating decentralization involves considering many factors, and users should always conduct their own thorough investigation before engaging with any DeFi protocol.

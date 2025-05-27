@@ -1,8 +1,4 @@
-# 🧠&nbsp;Pendle Strategies
-
-1. [💰Wise Lending](../)
-
-## 🧠&nbsp;Pendle Strategies
+# 🧠⋅Pendle Strategies
 
 Pendle offers mechanisms for enhancing yields on existing yield-bearing tokens, providing an alternative approach compared to directly using other yield sources.
 

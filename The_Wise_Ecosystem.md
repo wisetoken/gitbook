@@ -7,10 +7,10 @@ A decentralized finance (DeFi) ecosystem designed to provide sustainable yields,
 Wise.one serves as the primary interface for interacting with the WISE ecosystem. Acting as a non-custodial aggregator, it brings together lending, borrowing, staking, and yield farming across multiple protocols and chains. Users benefit from a single point of access to strategies and tools built on top of the core WISE smart contracts — all without giving up control of their assets.
 
 You can access the platform and its features via the following links:
-- Main site: [https://wise.one](https://wise.one)
+- Welcome: [https://wise.one](https://wise.one)
 - Lending: [https://lend.wise.one](https://lend.wise.one)
 - Staking: [https://stake.wise.one](https://stake.wise.one)
-- Dashboard/App: [https://app.wise.one](https://app.wise.one) (or [https://one.wise.one](https://one.wise.one))
+- Dashboard: [https://one.wise.one](https://one.wise.one) (or [https://app.wise.one](https://app.wise.one))
 
 The platform supports:
 
@@ -30,7 +30,7 @@ Launched in 2020, the WISE token is engineered to be one of the most decentraliz
 - **No ICO or token sale**; 100% of the initial supply was distributed through a fair launch via Uniswap.
 - **Immutable smart contracts** with no admin keys or owner privileges.
 
-WISE is paired with deep ETH liquidity, creating a **price floor** and aligning the token’s long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.
+WISE is paired with deep ownerless ETH liquidity, creating a **price floor** and aligning the token’s long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.
 
 ## Governance and Revenue Sharing
 
@@ -67,3 +67,4 @@ It offers a blueprint for what a truly decentralized, community-driven, and self
 - [Coinbase WISE Overview](https://www.coinbase.com/price/wise)
 - [CoinGecko WISE Page](https://www.coingecko.com/en/coins/wise)
 - [Etherscan WISE Token Tracker](https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6)
+- Connect with the community on [Discord](https://discord.gg/wisetoken)

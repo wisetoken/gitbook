@@ -1,8 +1,4 @@
-# 🔁&nbsp;Referral System
-
-[💰Wise Lending](../)
-
-## 🔁&nbsp;Referral System
+# 🔁⋅Referral System
 
 ### Privacy-Focused Referrals
 

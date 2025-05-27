@@ -1,9 +1,5 @@
 # 🥩⋅Staking WISE
 
-[🪙WISE Token](../)
-
-## 🥩Staking WISE
-
 ### How to Create WISE stakes:
 
 WISE stakers are rewarded for making WISE more scarce by locking it up. Staking rewards are funded with 75% of the annual WISE inflation (25% funds referrals). Unstaking WISE early is penalized, so staking WISE creates a supply shock and a predictable future price floor.

@@ -1,8 +1,4 @@
-# 🗣️WISE referrals
-
-[🪙WISE Token](../)
-
-## 🗣️WISE referrals
+# 🗣️⋅WISE Referrals
 
 The WISE referral system is funded using 25% of WISE inflation (75% goes to stakers). In order to start earning referrals you must first become a "Critical Mass Referrer".
 
