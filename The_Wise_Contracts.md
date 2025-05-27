@@ -1,4 +1,4 @@
-# Contracts
+# 📃⋅Wise Contracts
 
 This page lists key smart contract addresses for the Wise ecosystem, organized for clarity and ease of use.
 
