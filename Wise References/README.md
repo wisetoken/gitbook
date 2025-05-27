@@ -1,6 +1,6 @@
 # 🔗&nbsp;Wise References
 
-[« Back to The WISE Ecosystem](https://docs.wise.one/)
+[« Back to The WISE Ecosystem](/)
 
 Welcome to the Wise References section. Here you can find important reference materials and resources related to the Wise ecosystem.
 

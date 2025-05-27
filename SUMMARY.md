@@ -1,6 +1,6 @@
 # Summary
 
-* [🌍&nbsp;The WISE Ecosystem](README.md)
+* [🌍&nbsp;The WISE Ecosystem](/)
 * [📃&nbsp;All Wise Contracts](Contracts/README.md)
 * [🦉&nbsp;WISE Token](Wise%20Token/README.md)
   * [Staking WISE](Wise%20Token/Staking_WISE.md)
