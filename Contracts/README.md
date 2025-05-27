@@ -2,6 +2,16 @@
 
 This page lists key smart contract addresses for the Wise ecosystem, organized for clarity and ease of use.
 
+## Core Contracts
+
+### Ethereum Network
+
+| Contract Name        | Address                                      |
+|----------------------|----------------------------------------------|
+| [WISE Token](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
+| [Liquidity Transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
+| [WISE Staking](https://etherscan.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6) | `0x66a0f676479cee1d7373f3dc2e2952778bff5bd6` |
+
 ## Wise Lending Contracts
 
 ### Ethereum Network
@@ -49,9 +59,6 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
 | [Original Power Farm](https://etherscan.io/address/0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a#code) | `0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a` |
-| [WISE Token](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
-| [Liquidity Transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
-| [WISE Staking](https://etherscan.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6) | `0x66a0f676479cee1d7373f3dc2e2952778bff5bd6` |
 | [LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297) | `0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297` |
 | [LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code) | `0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e` |
 | [Owl Town](https://etherscan.io/address/0xef897ae2477776131ef57aacae2cd10b574886fa#code) | `0xef897ae2477776131ef57aacae2cd10b574886fa` |
