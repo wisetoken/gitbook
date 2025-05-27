@@ -1,41 +1,41 @@
-# 💰Wise Lending
+# 💰&nbsp;Wise Lending
 
-A DeFi liquidity market that allows users to supply crypto and start earning a variable APY from borrowers. Wise Lending excels at capital efficiency and yield optimization.
+A DeFi liquidity market where users can supply crypto assets to earn variable yield from borrowers. Wise Lending focuses on capital efficiency and yield optimization strategies.
 
-## Wise Lending is a fully decentralized dApp built from scratch by our top quality dev team. It is the best place to earn passive yield on your crypto. There are no locks on your funds, and deposits can be borrowed against at will.
+## Wise Lending is a decentralized application built by our development team. It offers a platform for earning yield on your crypto assets with flexible withdrawals and the ability to use your deposits as collateral for borrowing.
 
 ## **How do crypto lending dApps work?**
 
-Since there are no credit scores in the pseudo-anonymous crypto world, all loans must first be collateralized by depositing crypto assets. Many DeFi users deposit crypto assets they intend to hold long-term into a lending platform, in order to earn passive income from borrowers. The lender may then borrow against their own deposited funds (which can mitigate tax obligations), in order to make other investments or to double-down on their current positions. Deposits on lending platforms are able to be withdrawn whenever needed (funds aren't locked), and proof of reserves are straightforward, always available, and easily verifiable through on-chain analytics.
+In the crypto ecosystem where traditional credit scoring isn't applicable, loans are secured through collateral in the form of deposited crypto assets. Users often deposit assets they plan to hold long-term into lending platforms to generate passive income from borrowers. Depositors can also borrow against their own funds, which may provide tax advantages in some jurisdictions or allow for additional investment opportunities. Deposits generally remain accessible for withdrawal (subject to available liquidity), and the platform's reserves can be verified through blockchain analytics.
 
 ## What's the significance of being Built from Scratch?
 
-Many crypto lending platforms are simple forks (copy and pasted code from DeFi pioneers Aave or Compound), with the only additional contribution being that there is an extra token created and used to pad rewards on the platform. Wise Lending was built from the ground up and has many improved features over its predecessors. We achieve best-in-class APYs without needing to pad rewards with speculative tokens.
+Many lending platforms in DeFi are forks of established protocols like Aave or Compound, often adding their own token for additional incentives. Wise Lending was developed independently, allowing us to implement custom features and optimizations. This approach has helped us create a platform that aims to provide competitive yields without heavy reliance on token incentives that can dilute value over time.
 
-## Special features on Wise Lending:
+## Key features of Wise Lending:
 
-### 1) Best-in-Class APY for Lenders
+### 1) Optimized Yield for Lenders
 
-Lending platforms typically offer low APY, because borrowers can't do much more than long or short the market, which doesn't create lots of demand, because it requires skill and it's risky. Wise Lending has interfaced yield sources into the platform, that borrowers can arbitrage against lending APY with a click of a button. No trading skills required! See [Power Farms](power-farms/)
+Many lending platforms offer relatively modest yields because borrowing demand is limited to users looking to leverage market positions, which requires trading skill and risk tolerance. Wise Lending integrates with external yield sources that borrowers can access through our platform, potentially creating additional borrowing demand and yield opportunities for lenders. These integrated yield strategies aim to simplify the process for users. See [Power Farms](power-farms/) for more details.
 
-### 2) Robust oracle safety system
+### 2) Oracle safety mechanisms
 
-Wise Lending does not take oracle price feeds at face value. Instead, we use the Uniswap TWAP as a sanity check. If either price feed deviates by more than 2.5% of each other, it triggers a freeze on that asset. During a freeze, lenders may unwind leverage, but may not borrow. This state continues for 30 minutes and repeats until the price feeds are once again within 2.5% of each other. Wise Lending uses multiple oracles with RedStone Oracles as the primary solution for crypto assets pricing. RedStone is a Modular Oracle that delivers frequently updated, reliable, and diverse data feeds in a few models.
+To mitigate oracle manipulation risks, Wise Lending implements multiple price feed checks. We compare oracle data with Uniswap TWAP (Time-Weighted Average Price) data as a verification mechanism. When price feeds deviate by more than 2.5% from each other, the platform triggers a temporary freeze on the affected asset. During these freezes, users can unwind leveraged positions but cannot initiate new borrowing. This protective state lasts for 30 minutes and continues until price feeds reconcile. We utilize multiple oracle solutions, with RedStone Oracles serving as our primary data source for crypto asset pricing.
 
-### 3) Lending Automated Scaling Algorithm: (LASA AI)
+### 3) Lending Automated Scaling Algorithm: (LASA)
 
-Our own on-chain AI that determines the APY in borrowing pools.
+Our on-chain algorithm that helps determine and adjust interest rates in borrowing pools based on utilization and market conditions.
 
-### 4) Positions collateralized as NFTs
+### 4) NFT-based position management
 
-Each user mints an NFT for their account when they first interact. This allows for transferrable positions, as well as modular features to be built on top of the base protocol, such as an options market.
+User positions are represented as NFTs when they first interact with the platform. This design enables transferable positions and creates the foundation for additional features that can be built on top of the base protocol, such as potential future options markets.
 
 ### 5) Capped Liquidation Fees
 
-Instead of percentage-based liquidations, fees are hard-capped at a profitable range, ensuring that liquidations are always incentivized, while protecting borrowers' capital from unnecessary excessive loss when liquidated.
+Rather than using percentage-based liquidation fees that can result in large losses for borrowers during volatile market conditions, we implement hard caps on liquidation fees. This approach aims to maintain liquidator incentives while providing borrowers with some protection against excessive capital loss during liquidation events.
 
 ### 6) Solely Deposit Mode
 
-A feature that makes your deposits untouchable, even in the event of a catastrophic liquidity draining event on the platform. Solely deposit funds are deposited into separate siloed vaults, that cannot be touched by borrowers. This feature means forfeiting earnings from borrowers, but lenders using solely deposit mode may still borrow against their deposits.
+This optional feature allows users to place deposits in separate siloed vaults that aren't made available to borrowers. While this means forgoing earnings that come from borrowers using your assets, it provides an additional layer of protection against potential protocol risks. Users in solely deposit mode can still use their deposited assets as collateral for borrowing.
 
 

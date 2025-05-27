@@ -1,16 +1,16 @@
-# 🔁Referral System
+# 🔁&nbsp;Referral System
 
 [💰Wise Lending](../)
 
-## 🔁Referral System
+## 🔁&nbsp;Referral System
 
-### No Personal Information Needed!
+### Privacy-Focused Referrals
 
-Our referral system is open-source and on-chain. Promoters can start growing their network by sharing a referral link, which has their unique 0x wallet address. Promoters can use an ENS to make their link more recognizable to their referees.
+Our referral system operates on-chain without requiring personal information. Users can grow their network by sharing a referral link containing their unique wallet address. For easier recognition, ENS domains can be used in place of standard wallet addresses.
 
 #### Tracking Referrals
 
-The info for your referral network can be seen in a widget on the right side of the screen. In that box you have a link to copy and share. Your friends and family will need to visit your link, connect their crypto wallet, and sign a message to join your network (no gas needed). Everyone should join a referral network because both the referrer and the referee get 10% extra points for participating.
+You can monitor your referral network through the widget displayed on the right side of the interface. This widget provides a link you can copy and share. Those you refer will need to visit your link, connect their wallet, and sign a message to join your network (this doesn't require gas fees). Participating in the referral program can be beneficial for both parties, as referrers and referees both receive a 10% boost to their points in the system.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click here to Copy your unique Referral Link</p></figcaption></figure>
 
@@ -18,7 +18,7 @@ To view your current network, click the "Show Active Referrals" button and you w
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Click "Referral Breakdown"</p></figcaption></figure>
 
-Remember, it's not about the number of referrals, but about the amount of funds each one of your referrals deposits into Wise Lending. More funds deposited will earn you more points, so be sure to follow up and assist your referees with any questions they have about Wise Lending or any help they need in depositing funds.
+The effectiveness of your referrals is determined by the value of deposits made by those you refer, rather than simply the number of referrals. Higher deposit amounts generate more points in the system. To maximize the benefit, consider providing assistance to your referrals with any questions they might have about using the platform.
 
-It doesn't matter which blockchain is used for depositing funds (Ethereum, Arbitrum, Base). The same amount of funds will earn the same amount of points on either blockchain.
+The system works consistently across supported blockchains (Ethereum, Arbitrum, Base), with equivalent deposits earning the same number of points regardless of which chain they're made on.
 

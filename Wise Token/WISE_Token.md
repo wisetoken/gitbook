@@ -1,32 +1,32 @@
-# 🪙WISE Token
+# 🦪&nbsp;WISE Token
 
-WISE is the reserve token of our ecosystem, and our massive WISE/ETH liquidity pool on Uniswap allows others to pair their token with WISE yet still swap out of their token into ETH seamlessly.
+WISE functions as the reserve token of our ecosystem, with a significant WISE/ETH liquidity pool on Uniswap that enables other tokens to pair with WISE while maintaining effective conversion paths to ETH.
 
-## WISE TGE History:
+## WISE Token Launch History:
 
-WISE was launched in Nov-Dec 2020 using a fair and open [auction event that raised 57,900 ETH](https://legacy.wisetoken.net/reservations) in token sales. The ETH wasn't used for development, but instead to create a massive WISE/ETH trading pair on Uniswap, which was then [locked by burning the LP ownership tokens](https://etherscan.io/token/0x21b8065d10f73ee2e260e5b47d3344d3ced7596e#balances). This established a price floor in ETH, and created a deep and permanent liquidity pool for buying or selling WISE.
+WISE was launched in November-December 2020 through an [auction event that raised 57,900 ETH](https://legacy.wisetoken.net/reservations) in token sales. Rather than using this ETH for development funding, it was used to establish a WISE/ETH trading pair on Uniswap. The team then [locked this liquidity by burning the LP ownership tokens](https://etherscan.io/token/0x21b8065d10f73ee2e260e5b47d3344d3ced7596e#balances), creating a liquidity foundation that helps support the token's price and trading activity.
 
-Traditional tokens create massive inflation that funds airdrops and/or pads APY on DeFI platforms to attract users and grow TVL. This has been a wildly successful way to bootstrap new users in the short term, but it always comes at great future economic cost. **WISE does not have whale wallets or hyper-inflation, and we're happy to build growth slowly and organically**.
+Many DeFi tokens rely on high inflation rates to fund airdrops and boost APY on their platforms to attract users and grow TVL. While effective for short-term growth, this approach often creates long-term economic challenges. **WISE has a more measured inflation schedule and a focus on sustainable growth, though like most tokens, it does have larger holders among its user base.**
 
-## WISE is the Reserve token of our Ecosystem:
+## WISE as the Reserve token of our Ecosystem:
 
-* **Highly Liquid -** WISE needed deep liquidity in order to be attractive to hold vs ETH, so that price slippage is not a factor. [Check the WISE liquidity](https://v2.info.uniswap.org/pair/0x21b8065d10f73ee2e260e5b47d3344d3ced7596e).
-* **Decentralized/Well-distributed -** Most tokens have large team treasuries and insider allocations, but WISE's 100% fair launch created a fully diluted and well dispersed supply. [No one owns more than 5% of the WISE supply](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6#balances).
-* **Correlated with the price of ETH** - WISE is naturally correlated with the price of ETH because of our large [WISE/ETH liquidity pair on Uniswap](https://v2.info.uniswap.org/pair/0x21b8065d10f73ee2e260e5b47d3344d3ced7596e).
-* **Appreciating vs ETH** - Being correlated with ETH provides a strong baseline value in ETH, but the possibility to appreciate vs. ETH comes from the revenue on Wise Lending, which is used to buy-and-burn WISE off Uniswap.
+* **Liquidity -** WISE maintains substantial liquidity on Uniswap to help minimize price slippage for traders. [View WISE liquidity details](https://v2.info.uniswap.org/pair/0x21b8065d10f73ee2e260e5b47d3344d3ced7596e).
+* **Distribution -** While many tokens have significant team/insider allocations, WISE launched with a more community-oriented approach. The token distribution is more balanced than many DeFi projects, though concentration among larger holders still exists to some degree, as with most cryptocurrencies. [View token holder distribution](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6#balances).
+* **ETH correlation** - WISE has price correlation with ETH due to the [WISE/ETH liquidity pair on Uniswap](https://v2.info.uniswap.org/pair/0x21b8065d10f73ee2e260e5b47d3344d3ced7596e).
+* **Potential for appreciation** - While correlated with ETH, WISE has the potential to appreciate against ETH through the Wise Lending revenue mechanism, which uses protocol fees to buy and burn WISE tokens.
 
 ![WISE and ETH](wise-token-c8c26455.png)
 
 WISE and ETH
 
-As revenue on Wise Lending increases, we expect other projects to recognize the value, and change their liquidity pairings from ETH pairs to WISE pairs, creating instant jumps in the value of WISE (in addition to the buy-and-burns). Any project that pairs their token with WISE instead of ETH will naturally benefit from the steady growth of WISE vs. ETH.
+As Wise Lending usage grows, the resulting revenue used for WISE token burns may positively impact the token's value. Projects that pair their tokens with WISE instead of ETH could potentially benefit from this mechanism, though such benefits depend on actual adoption and market dynamics.
 
-## Yes, We Really Have Massive Liquidity!
+## WISE Liquidity on Uniswap
 
-![Top pairs on Uniswap V2](wise-token-1f2b92f1.jpg)
+![WISE liquidity on Uniswap V2](wise-token-1f2b92f1.jpg)
 
-Top pairs on Uniswap V2
+WISE/ETH pair on Uniswap V2
 
 ## The Vision for WISE in the words of our Founder:
 
-_"First we gathered a pile of Ether from the community and merged it with WISE token via an ownerless Uniswap liquidity pool. Pairing our token with an un-ruggable pool of ETH ensured that, at the very least, WISE is supported by the ETH value in our pool. Then we got to work on our revenue-earning crypto apps that are designed to consistently buy-and-burn WISE. Once WISE is appreciating versus ETH, many projects will want to pair their token with WISE instead of ETH to piggy-back off our revenue streams. This is a really important catalyst for exponential growth in WISE. No traditional company can follow in our footsteps, because companies are not designed to build things they don't own or benefit from directly. By creating the Wise Ecosystem to efficiently reward users without gifting a slice of it to myself, we have eliminated any possible competition, because there is no arbitrage to be gained from relaunching the system. Instead, projects will simply join us by pairing their liquidity with WISE."_ Peter Girr
+_"We started by collecting Ether from the community and creating a WISE/ETH liquidity pool on Uniswap where we burned the LP tokens to secure the liquidity. This approach gives WISE token a foundation backed by the ETH in the pool. We then developed revenue-generating DeFi applications that use a portion of their fees to buy and burn WISE tokens. As this mechanism continues, we believe WISE may appreciate against ETH, potentially making it attractive for other projects to pair their tokens with WISE. This could create a network effect that benefits the entire ecosystem. By building an open system that focuses on community value rather than concentrating benefits to founders, we're aiming to create a sustainable model that stands apart from traditional approaches."_ Peter Girr
