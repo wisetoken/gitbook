@@ -1,5 +1,7 @@
 # 🌍&nbsp;The WISE Ecosystem
 
+<meta http-equiv="refresh" content="0;url=/the-wise-ecosystem" />
+
 A decentralized finance (DeFi) ecosystem designed to provide sustainable yields, borrowing options, and value growth through protocol revenue sharing.
 
 <div class="gitbook-info">
