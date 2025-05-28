@@ -1,7 +1,5 @@
 # 🌍&nbsp;The WISE Ecosystem
 
-<meta http-equiv="refresh" content="0;url=/the-wise-ecosystem" />
-
 A decentralized finance (DeFi) ecosystem designed to provide sustainable yields, borrowing options, and value growth through protocol revenue sharing.
 
 <div class="gitbook-info">
@@ -46,7 +44,7 @@ Launched in 2020, the WISE token is engineered to be one of the most decentraliz
 <p><img src=".gitbook/assets/information.svg" alt="" data-size="line"> <strong>Tokenomics</strong> refers to the quality of the token design, which is a combination of distribution, intrinsic value, inflation, and liquidity. WISE has a well-distributed token with intrinsic value backed by ETH, controlled inflation, and deep liquidity.</p>
 </div>
 
-WISE is paired with deep ownerless ETH liquidity, creating a **price floor** and aligning the token’s long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.
+WISE is paired with deep ownerless ETH liquidity, creating a **price floor** and aligning the token's long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.
 
 ## Governance and Revenue Sharing
 
