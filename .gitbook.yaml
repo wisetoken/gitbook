@@ -1,3 +1,4 @@
 root: ./
 structure:
+  read: README.md
   summary: SUMMARY.md
