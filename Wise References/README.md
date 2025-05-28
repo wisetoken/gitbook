@@ -1,7 +1,5 @@
 # 🔗&nbsp;Wise References
 
-[« Back to The WISE Ecosystem](/the-wise-ecosystem)
-
 Welcome to the Wise References section. Here you can find important reference materials and resources related to the Wise ecosystem.
 
 Explore the following topics to learn more:

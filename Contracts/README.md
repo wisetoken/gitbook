@@ -1,7 +1,5 @@
 # 📃&nbsp;All Wise Contracts
 
-[« Back to The WISE Ecosystem](/the-wise-ecosystem)
-
 This page lists key smart contract addresses for the Wise ecosystem, organized for clarity and ease of use.
 
 ## Core Contracts
@@ -61,6 +59,6 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
 | [Original Power Farm](https://etherscan.io/address/0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a#code) | `0xd32e94acf185c9b12a8a9fbf0c3d3e7891dc479a` |
-| [LiquidNFTs router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297) | `0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297` |
+| [LiquidNFTs Router](https://etherscan.io/address/0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297) | `0xB4d2484EF7f91c8D4cd019460Ccbc384C1C24297` |
 | [LiquidNFTs ETH pool](https://etherscan.io/address/0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e#code) | `0x3f302D860b27FB06C794eE0916abC1D3A362Bf7e` |
 | [Owl Town](https://etherscan.io/address/0xef897ae2477776131ef57aacae2cd10b574886fa#code) | `0xef897ae2477776131ef57aacae2cd10b574886fa` |

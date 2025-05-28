@@ -1,7 +1,5 @@
 # 📶&nbsp;World Mobile
 
-[« Back to The WISE Ecosystem](/the-wise-ecosystem)
-
 World Mobile is a mobile internet provider company that utilizes innovative technology to connect the unconnected people of the world. They have a sharing-economy business model and excellent revenue, and we have partnered with WM to bring their yield opportunity to our platform in the form of a 20% fixed APY vault for USDC.
 
 ![World Mobile Vault on Wise Lending](world-mobile-7e27fa4d.jpg)
