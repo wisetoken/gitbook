@@ -1,4 +1,4 @@
-# 🦉⋅WISE Token
+# 🦉&nbsp;WISE Token
 
 WISE Token is the foundational reserve asset of the Wise ecosystem, designed to foster sustainable growth and provide deep liquidity.
 

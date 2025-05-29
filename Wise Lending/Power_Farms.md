@@ -1,4 +1,4 @@
-# 🤑⋅Power Farms
+# 🤑&nbsp;Power Farms
 
 One-click yield-farming strategies that leverage native liquidity from our lending platform to multiply the yields available on select Pendle zero-impermanent-loss LPs.
 

@@ -1,4 +1,4 @@
-# 🏆⋅Decentralization Rank
+# 🏆&nbsp;Decentralization Rank
 
 Evaluating the decentralization of DeFi protocols is an important aspect of understanding their risk profiles and the trust assumptions involved when interacting with them. This page offers a comparative perspective on various protocols, focusing on key metrics related to decentralization.
 

@@ -1,10 +1,10 @@
-# 🥩⋅Staking WISE
+# 🥩&nbsp;Staking WISE
 
 ### How to Create WISE stakes:
 
 WISE stakers are rewarded for making WISE more scarce by locking it up. Staking rewards are funded with 75% of the annual WISE inflation (25% funds referrals). Unstaking WISE early is penalized, so staking WISE creates a supply shock and a predictable future price floor.
 
-To start a stake, go to [https://wise.one/staking/hub](https://wise.one/staking/hub). and click "Create WISE stake".
+To start a stake, go to [https://stake.wise.one](https://stake.wise.one). and click "Create WISE stake".
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>starting a WISE stake</p></figcaption></figure>
 

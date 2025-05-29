@@ -1,4 +1,4 @@
-# 🤖⋅LASA AI
+# 🤖&nbsp;LASA AI
 
 LASA (Lending Automated Scaling Algorithm) is our on-chain mechanism that dynamically determines the borrow APY (Annual Percentage Yield) in our lending pools. It's designed to adjust interest rates based on market conditions, primarily the utilization rate of assets within a pool.
 

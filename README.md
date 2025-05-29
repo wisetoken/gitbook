@@ -10,7 +10,7 @@ WISE is built on the principles of true decentralization, sustainable yield, and
 
 ## Wise.one – The Aggregator for WISE Ecosystem
 
-Wise.one serves as the primary interface for interacting with the WISE ecosystem. Acting as a non-custodial aggregator, it brings together lending, borrowing, staking, and yield farming across multiple protocols and chains. Users benefit from a single point of access to strategies and tools built on top of the core WISE smart contracts — all without giving up control of their assets.
+Wise.one serves as the most advanced interface for interacting with the entire WISE ecosystem in one place. Acting as a non-custodial aggregator, it brings together lending, borrowing, staking, and yield farming across multiple protocols and chains. Users benefit from a single point of access to strategies and tools built on top of the core WISE smart contracts — all without giving up control of their assets.
 
 You can access the platform and its features via the following links:
 - Welcome: [https://wise.one](https://wise.one)
