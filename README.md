@@ -31,7 +31,7 @@ Wise.one is an access layer, not a custodian. All logic is enforced on-chain, an
 ## $WISE Token – A Decentralized Reserve Asset
 
 <div class="gitbook-info">
-<p><img src=".gitbook/assets/information.svg" alt="" data-size="line"> <strong>Fair Launch</strong> refers to 100% of the ETH raised during the WISE launch event being used to create the WISE/ETH liquidity pool, and the LP tokens were burned, permanently locking the liquidity.</p>
+<p><img src=".gitbook/assets/information.svg" alt="" data-size="line"><strong>Fair Launch</strong> refers to 100% of the ETH raised during the WISE launch event being used to create the WISE/ETH liquidity pool, and the LP tokens were burned, permanently locking the liquidity.</p>
 </div>
 
 Launched in 2020, the WISE token is engineered to be one of the most decentralized assets in DeFi:
@@ -41,7 +41,7 @@ Launched in 2020, the WISE token is engineered to be one of the most decentraliz
 - **Immutable smart contracts** with no admin keys or owner privileges.
 
 <div class="gitbook-info">
-<p><img src=".gitbook/assets/information.svg" alt="" data-size="line"> <strong>Tokenomics</strong> refers to the quality of the token design, which is a combination of distribution, intrinsic value, inflation, and liquidity. WISE has a well-distributed token with intrinsic value backed by ETH, controlled inflation, and deep liquidity.</p>
+<p><img src=".gitbook/assets/information.svg" alt="" data-size="line"><strong>Tokenomics</strong> refers to the quality of the token design, which is a combination of distribution, intrinsic value, inflation, and liquidity. WISE has a well-distributed token with intrinsic value backed by ETH, controlled inflation, and deep liquidity.</p>
 </div>
 
 WISE is paired with deep ownerless ETH liquidity, creating a **price floor** and aligning the token's long-term stability with the health of the Ethereum ecosystem. It is **not used to inflate user rewards**, ensuring that incentives remain sustainable and immune to common hyperinflation issues.

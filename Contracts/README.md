@@ -8,9 +8,10 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
-| [WISE Token](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
+| [WISE Token / Staking](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
 | [Liquidity Transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
-| [WISE Staking](https://etherscan.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6) | `0x66a0f676479cee1d7373f3dc2e2952778bff5bd6` |
+| [Liquidity Guard](https://etherscan.io/address/0x9C306CaD86550EC80D77668c0A8bEE6eB34684B6#code) | `0x9C306CaD86550EC80D77668c0A8bEE6eB34684B6` |
+| [WISE/ETH LP](https://etherscan.io/address/0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E) | `0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E` |
 
 ## Wise Lending Contracts
 
