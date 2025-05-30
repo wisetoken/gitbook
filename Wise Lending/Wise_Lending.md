@@ -30,6 +30,14 @@ Our on-chain algorithm that helps determine and adjust interest rates in borrowi
 
 User positions are represented as NFTs when they first interact with the platform. This design enables transferable positions and creates the foundation for additional features that can be built on top of the base protocol, such as potential future options markets.
 
+## How secure is Wise Lending?
+
+Wise Lending prioritizes security through multiple layers of protection. Our smart contracts have undergone thorough audits by respected security firms, and we maintain an active bug bounty program with rewards up to $100k for critical vulnerabilities. The platform implements circuit breakers that automatically pause specific functions if unusual activity is detected, particularly around price feeds. Additionally, our oracle safety mechanisms help protect against price manipulation attacks by comparing multiple data sources before executing transactions.
+
+## What makes Wise Lending different from other lending platforms?
+
+Unlike many DeFi platforms that simply fork existing code and add a token, Wise Lending was built from scratch with specific improvements in mind. Our platform features innovative yield optimization through Power Farms, advanced oracle safety mechanisms, the dynamic LASA interest rate algorithm, and NFT-based position management. We focus on sustainable yields without relying on inflationary token rewards that dilute value over time. The platform also emphasizes transparency, with all reserves verifiable on-chain and a commitment to decentralization.
+
 ### 5) Capped Liquidation Fees
 
 Rather than using percentage-based liquidation fees that can result in large losses for borrowers during volatile market conditions, we implement hard caps on liquidation fees. This approach aims to maintain liquidator incentives while providing borrowers with some protection against excessive capital loss during liquidation events.

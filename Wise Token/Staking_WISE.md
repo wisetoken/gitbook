@@ -17,13 +17,13 @@ Input the desired **Stake Duration** in days. The bonus increases based on the n
 If you entered the website with a referral link, you will see the 10% **Referral Bonus** \
 If not, you can choose a team referral address with the selector **I want to use team referral address** &#x20;
 
-By default, the selector **I prefer this stake to be transferable** is off. \
-That means the stake is not transferable, but is scrapable.\
-If the selector **I prefer this stake to be transferable** is turned on, the stake is transferable (to another wallet or used DEFI project), but not scrapable.\
-In the near future, a full WISE stake version will be released (transferable and scrapable)
+By default, the selector **I prefer this stake to be transferable** is off.
+That means the stake is not _transferable_, but is _scrapable_.
+If the selector **I prefer this stake to be transferable** is turned on, the stake is _transferable_ (to another wallet or used DEFI project), and also _scrapable_.
+In the near future, a full WISE stake version will be released (_transferable_ and _scrapable_)
 
-**HIGH Gas costs for starting/ending stakes:**\*\*\
-Our shares system and referral rewards make our staking contract much more complicated than a simple lock-up. Ending a stake costs much more than a simple swap, and the cost grows with the length of the stake. Holders must monitor Ethereum gas prices, start and end stakes during periods of low gas demand, and stake larger amounts ($5000+ for example).
+**Gas costs for starting/ending stakes:**\
+Our shares system and referral rewards make our staking contract much more computationally expensive than a simple lock-up. Ending a stake could costs more than a simple swap, and the cost grows with the length of the stake linearly. Holders must monitor Ethereum gas prices, start and end stakes during periods of low gas demand, and consider staking larger amounts ($5,000+ for example).
 
 ### Scraping interest on WISE stakes:
 
