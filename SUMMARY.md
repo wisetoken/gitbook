@@ -4,7 +4,7 @@
 * [📃&nbsp;All Wise Contracts](Contracts/README.md)
 * [🦉&nbsp;WISE Token](Wise%20Token/README.md)
   * [🥩&nbsp;Staking WISE](Wise%20Token/Staking_WISE.md)
-  * [🗣️&nbsp;WISE Referrals](Wise%20Token/WISE_Referrals.md)
+  * [🗣️&nbsp;WISE Referrals](Wise%20Token/wise-referrals.md)
 * [💵&nbsp;Wise Lending](Wise%20Lending/README.md)
   * [💰&nbsp;Wise Lending Overview](Wise%20Lending/Wise_Lending.md)
   * [🤑&nbsp;Power Farms](Wise%20Lending/Power_Farms.md)

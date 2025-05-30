@@ -37,5 +37,5 @@ The interest earned on WISE stakes can be collected at any time by scraping. Thi
 
 You can end your stake any time before maturity for a significant penalty. The penalty is equivalent to the percentage of time you have not completed on your stake. \
 For example, a 100 days stake ended on day 30 will cost 70% of your principal to end. The penalized WISE is distributed proportionally among the remaining WISE stakers. Interest earned on stakes is never penalized.\
-Note : if you create a stake one day, it will really begin at midnight that day. You can terminate it any time during that day without penalty. &#x20;
+Note: if you create a stake one day, it will really begin at midnight that day. You can terminate it any time during that day without penalty. &#x20;
 

@@ -16,7 +16,7 @@ LASA aims to maintain an optimal balance between rewarding lenders and providing
 
 The following table provides lookup values for different borrow rate curves. These parameters are used to construct specific interest rate models tailored to different assets or market conditions. The goal is to achieve a target interest rate at a specific utilization percentage (referred to as 'Gaue Value' or 'Gauge Value' in some contexts, indicating a target calibration point for the curve).
 
-| Lower Bound Rate [wei] | Upper Bound Rate [wei] | Mul-Factor [wei]      | Target (Utilization %, Rate %) |
+| Lower Bound Rate [wei] | Upper Bound Rate [wei] | Mul-Factor [wei]      | Aim (Utilization %, Rate %) |
 | :----------------------- | :----------------------- | :-------------------- | :----------------------------- |
 | 1E18 (1000000000000000000) | 3E18 (3000000000000000000) | 4E15 (4000000000000000) | (90%, 3%)                      |
 | 1E18 (1000000000000000000) | 3E18 (3000000000000000000) | 5E15 (5000000000000000) | (90%, 4%)                      |
