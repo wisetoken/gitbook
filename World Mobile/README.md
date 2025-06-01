@@ -10,7 +10,7 @@ World Mobile is an innovative mobile internet provider that connects underserved
 
 ### 20% Fixed APY Vault
 
-The World Mobile vault offers a consistent 20% annual percentage yield on USDC deposits. This high-yield opportunity is available through the [https://wise.one/vaults](https://wise.one/vaults) platform on both Ethereum and Arbitrum networks. The deposit process requires two transactions: one for approval and one for the actual deposit.
+The World Mobile vault offers a consistent 20% annual percentage yield on USDC deposits. This high-yield opportunity is available through the [https://one.wise.one/vaults](https://one.wise.one/vaults) platform on both Ethereum and Arbitrum networks. The deposit process requires two transactions: one for approval and one for the actual deposit.
 
 ### How It Actually Works
 
