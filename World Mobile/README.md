@@ -10,7 +10,7 @@ World Mobile is an innovative mobile internet provider that connects underserved
 
 ### 20% Fixed APY Vault
 
-The World Mobile vault offers a consistent 20% annual percentage yield on USDC deposits. This high-yield opportunity is available through the [https://one.wise.one/vaults](https://one.wise.one/vaults) platform on both Ethereum and Arbitrum networks. The deposit process requires two transactions: one for approval and one for the actual deposit.
+The World Mobile vaults offer a consistent 20% annual percentage yield on both USDC and USDT deposits. This high-yield opportunity is available through the [https://one.wise.one/vaults](https://one.wise.one/vaults) platform on both Ethereum and Arbitrum networks. The deposit process requires two transactions: one for approval and one for the actual deposit.
 
 ### How It Actually Works
 
@@ -27,9 +27,13 @@ It's important to understand that the initial principal is not withdrawable dire
 
 **Important Notes:**
 - Users receive ERC20 receipt tokens representing their deposit positions
-- The vault has a $5M cap due to the high fixed returns
-- Early participation is recommended as the vault fills quickly
-- The vault cap expands only as World Mobile's capacity grows
+- There are four separate vaults, each capped at $1M:
+  - USDC vault on Ethereum
+  - USDT vault on Ethereum
+  - USDC vault on Arbitrum
+  - USDT vault on Arbitrum
+- Early participation is recommended as the vaults fill quickly
+- Vault caps expand only as World Mobile's capacity grows
 - Receipt tokens can be freely traded on secondary markets
 
 <figure><img src="dashboard.jpg" alt=""><figcaption><p>World Mobile ERC20 positions dashboard</p></figcaption></figure>
