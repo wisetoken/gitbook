@@ -4,7 +4,7 @@
 
 World Mobile is an innovative mobile internet provider that connects underserved populations globally through revolutionary technology. Using a sharing-economy business model similar to how Airbnb transformed hotels and Uber changed taxis, World Mobile delivers reliable internet connectivity at a fraction of traditional costs. Through a strategic partnership with World Mobile, the platform offers a 20% fixed APY vault for USDC deposits.
 
-![World Mobile Vault on Wise Lending](how-it-works.png)
+![How it works](how-it-works.png)
 
 ## World Mobile Vault Features
 
