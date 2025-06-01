@@ -32,7 +32,7 @@ It's important to understand that the initial principal is not withdrawable dire
 - The vault cap expands only as World Mobile's capacity grows
 - Receipt tokens can be freely traded on secondary markets
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>World Mobile ERC20 positions dashboard</p></figcaption></figure>
+<figure><img src="dashboard.jpg" alt=""><figcaption><p>World Mobile ERC20 positions dashboard</p></figcaption></figure>
 
 ### Position Management
 
