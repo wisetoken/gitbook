@@ -1,62 +1,109 @@
 # 📶&nbsp;World Mobile
 
-World Mobile is a mobile internet provider company that utilizes innovative technology to connect the unconnected people of the world. They have a sharing-economy business model and excellent revenue, and we have partnered with WM to bring their yield opportunity to our platform in the form of a 20% fixed APY vault for USDC.
+## Overview
+
+World Mobile is an innovative mobile internet provider that connects underserved populations globally through revolutionary technology. Using a sharing-economy business model similar to how Airbnb transformed hotels and Uber changed taxis, World Mobile delivers reliable internet connectivity at a fraction of traditional costs. Through a strategic partnership with World Mobile, the platform offers a 20% fixed APY vault for USDC deposits.
 
 ![World Mobile Vault on Wise Lending](world-mobile-7e27fa4d.jpg)
 
-## How it Works:
+## World Mobile Vault Features
 
-To start earning 20% fixed APY on USDC, navigate to the [https://wise.one/vaults](https://wise.one/vaults) page, set your browser wallet on either Ethereum or Arbitrum network, then connect your wallet, and deposit USDC from your wallet. This will take _**two**_ transactions, one for approval and one for depositing.
+### 20% Fixed APY Vault
 
-**Note**: You can open multiple deposit positions per wallet address.
+The World Mobile vault offers a consistent 20% annual percentage yield on USDC deposits. This high-yield opportunity is available through the [https://wise.one/vaults](https://wise.one/vaults) platform on both Ethereum and Arbitrum networks. The deposit process requires two transactions: one for approval and one for the actual deposit.
 
-The World Mobile vault is CAPPED at $5M! Due to the incredible rate of fixed returns, it's advisable to quickly secure your position in the vault while there is still room available. The vault cap can only expand as fast as World Mobile.
+**Important Notes:**
+- Multiple deposit positions can be created per wallet address
+- The vault has a $5M cap due to the high fixed returns
+- Early participation is recommended as the vault fills quickly
+- The vault cap expands only as World Mobile's capacity grows
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Your World Mobile positions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>World Mobile positions dashboard</p></figcaption></figure>
 
-### Collecting Rewards:
+### Position Management
 
-Interest is claimable every 30 days after you have deposited your USDC principal.\
-Use **Collect Rewards** button to the right of your deposit position line to claim your interest.
+#### Collecting Rewards
+Interest accrues immediately after USDC principal is deposited and can be claimed at any time. Each position displays a **Collect Rewards** button that allows for interest claiming.
 
-### Sending a position to another wallet of DEFI protocol
+#### Transferring Positions
+All positions exist as NFTs on the blockchain. These NFTs can be transferred to other wallets or DeFi protocols using the **Send** button associated with each position.
 
-Those positions are NFTs that can be transfered. Use the **Send** button to transfer them.
+#### Principal Liquidity
+USDC principal cannot be withdrawn directly as it funds the purchase of World Mobile network infrastructure. However, positions can be sold on secondary markets. When USDC is deposited, an NFT representing the position is minted to the depositor's wallet. This NFT is essential for claiming interest.
 
-### Liquidating Principal:
+Historically, node positions have traded above their purchase price due to the attractive APY. The Wise team provides assistance to users looking to exit their positions if needed.
 
-Your USDC principal _**cannot**_ be withdrawn, since it was used to purchase node infrastructure for the mobile network, however, you may sell your position in the vault on the secondary market. When you deposit USDC in the vault, you also mint an NFT to your wallet that represents your position. This NFT is required for claiming interest on your position. We do not anticipate liquidity being an issue since nodes have been trading above the purchase price due to high APY. The Wise team will personally assist as necessary any users wishing to exit their position in the vault.
+### Security Measures
 
-### How Safe is the Vault from Attacks?
+The World Mobile vault employs several security features:
 
-Our World Mobile vault automatically forwards all USDC deposits directly to World Mobile, who use those funds to buy nodes to build their internet network. There are no principal funds sitting in the vault that could be attacked. Additionally, the node infrastructure is insured as part of the cost for the nodes, and any maintenance is handled entirely by World Mobile. Users can be assured that once they deposit USDC, they can count on a passive yield source that requires no maintenance and very little risk. The revenue coming back from World Mobile every month is placed back in the vault for users to claim, and users can avoid the (unlikely) possibility of an attacker finding an exploit to steal the incoming revenue by promptly claiming their interest from the vault every month.
+1. Immediate forwarding of deposits to World Mobile for node purchases, leaving no principal funds vulnerable in the vault
+2. Insurance coverage for all node infrastructure as part of the node cost
+3. Complete maintenance handled by World Mobile
+4. Monthly revenue deposits back to the vault for user claims
 
-## About World Mobile
+Users are encouraged to claim interest monthly to minimize exposure to potential (though unlikely) exploits targeting incoming revenue.
 
-Like Airbnb for hotels and Uber for taxis, World Mobile has applied the sharing economy model to internet carrier companies. But that's not all they have done, because they've actually developed a breakthrough in the technology too. World Mobile networks are 8x cheaper and can be set up much faster than conventional methods.
+## World Mobile Technology
 
-### A Technological Breakthrough:
+### Aerostat Innovation
 
-World Mobile has taken a different approach to building the infrastructure for providing internet. The conventional way has been building cell towers, but World Mobile utilizes aerostats (blimps). To accomplish the same work as 12 cell phone towers do, World Mobile launches a 75-foot tethered blimp in the sky that carries the radio transmitters. The blimp beams connectivity down to air nodes on rooftops to provide internet to households and cell phones. This method is 8 times cheaper than the competition, and they are also constantly finding ways to improve the cost even more. [Here](https://www.gsma.com/get-involved/gsma-foundry/wp-content/uploads/2023/12/New-Coverage-Takes-to-the-Skies-b-FINAL.pdf) is the most recent study about this technology.
+World Mobile has revolutionized internet infrastructure deployment by using aerostats (blimps) instead of traditional cell towers. A single 75-foot tethered blimp carrying radio transmitters can replace up to 12 conventional cell towers. This technology:
+
+- Reduces infrastructure costs by 8x compared to traditional methods
+- Enables rapid deployment in previously underserved areas
+- Connects to rooftop air nodes to provide internet to households and mobile devices
+- Continues to improve in efficiency and cost-effectiveness
 
 ![World Mobile Aerostat Technology](world-mobile-4d980a9c.jpg)
 
-### Sustainable and Recession-Proof Yield:
+For detailed technical information, see the [latest industry study](https://www.gsma.com/get-involved/gsma-foundry/wp-content/uploads/2023/12/New-Coverage-Takes-to-the-Skies-b-FINAL.pdf) on this technology.
 
-In modern society, internet connectivity has become a need, not a want. We depend on it for everything from our jobs, to transportation, to communication, and many other aspects of our lives. People are willing to pay for internet connectivity as much as they are willing to pay for food and housing. For this reason, World Mobile's revenue model is extremely reliable and recession-proof. First of all, they are cheaper than conventional options, with people in developing areas of the world paying less than $2 per month for internet, and each plan is a rolling 1 year contract. This is why we are able to offer 20% fixed yield. If anything, we might be able to _**increase**_ the fixed APY amount as World Mobile becomes more efficient!
+### Sustainable Business Model
 
-### Can the APY ever change?
+Internet connectivity has become an essential utility in modern society, comparable to food and housing in terms of consumer priority. World Mobile's business model is particularly resilient because:
 
-This yield comes directly from World Mobile, and customers are on rolling annual contracts, meaning revenue is secured for the foreseeable future, and there would be 1 year of early warning before that could change. World Mobile found a way to build their infrastructure 8x cheaper than conventional methods, and it is very unlikely that legacy companies will rush to adapt. World Mobile has made a name for themselves, and have become a trusted partner with every network they have launched. We believe they will to continue to offer high APY for decades to come.
+- Services are priced affordably (under $2 monthly in developing regions)
+- Customer contracts roll annually, securing revenue streams
+- Infrastructure costs are significantly lower than industry standards
+- The technology serves both developed and developing markets
 
-The Wise team's commitment is to maintain 20% fixed APY as long as World Mobile keeps delivering that value, and that we will maintain the liquidity of the USDC vault deposits, by selling nodes as necessary, if users are unable to sell their vault positions on the secondary market.
+This sustainable model enables the consistent 20% fixed yield offered through the vault, with potential for even higher returns as operational efficiency increases.
 
-### How Big is the Market?
+### APY Stability Factors
 
-World Mobile shines brightest in places of the world that are considered developing or emerging, due to their innovative way of erecting networks. What may surprise you is that over 30% of the world fits this category! And because of the efficient way they do things, World Mobile can provide competitive alternatives anywhere you can fly their aerostats, which is most places. World Mobile is already active in the USA in places such as Reno, NV which struggle to find connectivity from conventional carriers. Indeed, the bottleneck for growth is actually regulatory and compliance red tape, rather than their capability to keep building. World Mobile has the potential to be the largest internet carrier in the world.
+The 20% fixed APY is supported by several factors:
 
-### The Starlink Question:
+1. Direct revenue flow from World Mobile's operations
+2. Annual rolling contracts that provide revenue predictability
+3. World Mobile's significant cost advantage (8x) over traditional providers
+4. Established market presence and trusted partnerships
 
-One of the most common questions that comes up about World Mobile is if Starlink competes with or if they could render World Mobile obsolete. _Nothing could be further from the truth!_ In fact, Startlink is complementary to World Mobile, since Starlink nodes are used on World Mobile aerostats. What's important to understand here is that internet satellites have a very different capability and role than terrestrial internet infrastructure, and this is not likely to change in the future simply because of physics. There is a big difference between satellites that are capable of providing coverage for emergency calls in rural areas, and being able to provide a powerful internet connection capable of streaming at high bandwidth to thousands of people in close proximity. The latter is best accomplished with infrastructure on the ground, like what World Mobile is doing. Satellites simply do not have that capability due to physics issues like "beam contention" and the fact that it's very expensive. World Mobile is able to provide high bandwidth internet to people in developing areas of the world for under $2 per month.
+The Wise team is committed to maintaining the 20% fixed APY as long as World Mobile continues delivering this value. If users need to exit positions but cannot find buyers on secondary markets, the Wise team will assist by selling nodes as necessary to maintain liquidity.
 
-Watch our video about World Mobile
+## Market Potential
+
+World Mobile's market opportunity is substantial:
+
+- Over 30% of the global population lives in developing or emerging regions ideal for World Mobile's technology
+- Aerostat deployment is possible in most geographic areas, enabling wide coverage
+- Current operations include underserved areas in developed nations, such as Reno, Nevada
+- Growth limitations are primarily regulatory rather than technological
+
+With its innovative approach and cost advantages, World Mobile has the potential to become one of the largest internet carriers globally.
+
+## World Mobile vs. Starlink
+
+A common misconception is that Starlink and similar satellite internet providers compete directly with World Mobile. In reality:
+
+- Starlink complements World Mobile's infrastructure, with Starlink nodes often used on World Mobile aerostats
+- Satellite and terrestrial internet technologies serve different purposes due to fundamental physics constraints
+- Satellites excel at providing basic connectivity in extremely remote areas but face limitations in high-density population centers
+- Ground-based infrastructure like World Mobile's is necessary for high-bandwidth streaming and data-intensive applications for multiple users in proximity
+- Satellite bandwidth faces inherent limitations from "beam contention" and high operational costs
+
+World Mobile's solution provides high-bandwidth internet at affordable rates (under $2 monthly) in developing regions, addressing needs that satellite internet alone cannot satisfy.
+
+## Additional Resources
+
+Watch the informational video about World Mobile for more details on the technology and partnership.
