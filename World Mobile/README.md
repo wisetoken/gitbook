@@ -4,7 +4,7 @@
 
 World Mobile is an innovative mobile internet provider that connects underserved populations globally through revolutionary technology. Using a sharing-economy business model similar to how Airbnb transformed hotels and Uber changed taxis, World Mobile delivers reliable internet connectivity at a fraction of traditional costs. Through a strategic partnership with World Mobile, the platform offers a 20% fixed APY vault for USDC deposits.
 
-![World Mobile Vault on Wise Lending](world-mobile-7e27fa4d.jpg)
+![World Mobile Vault on Wise Lending](how-it-works.png)
 
 ## World Mobile Vault Features
 
@@ -13,25 +13,27 @@ World Mobile is an innovative mobile internet provider that connects underserved
 The World Mobile vault offers a consistent 20% annual percentage yield on USDC deposits. This high-yield opportunity is available through the [https://wise.one/vaults](https://wise.one/vaults) platform on both Ethereum and Arbitrum networks. The deposit process requires two transactions: one for approval and one for the actual deposit.
 
 **Important Notes:**
-- Multiple deposit positions can be created per wallet address
+- Users receive ERC20 receipt tokens representing their deposit positions
 - The vault has a $5M cap due to the high fixed returns
 - Early participation is recommended as the vault fills quickly
 - The vault cap expands only as World Mobile's capacity grows
+- Receipt tokens can be freely traded on secondary markets
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>World Mobile positions dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>World Mobile ERC20 positions dashboard</p></figcaption></figure>
 
 ### Position Management
 
 #### Collecting Rewards
-Interest accrues immediately after USDC principal is deposited and can be claimed at any time. Each position displays a **Collect Rewards** button that allows for interest claiming.
+Interest accrues immediately after USDC principal is deposited and can be claimed at any time. Each position displays a **Collect Rewards** button that allows for interest claiming. The amount of rewards is proportional to the amount of ERC20 receipt tokens held.
 
-#### Transferring Positions
-All positions exist as NFTs on the blockchain. These NFTs can be transferred to other wallets or DeFi protocols using the **Send** button associated with each position.
+#### Transferring Positions to Other Wallets or DeFi Protocols
+
+Positions are represented by standard ERC20 receipt tokens that can be transferred like any other token. Users can send these tokens to other wallets, use them in DeFi protocols, or trade them on decentralized exchanges.
 
 #### Principal Liquidity
-USDC principal cannot be withdrawn directly as it funds the purchase of World Mobile network infrastructure. However, positions can be sold on secondary markets. When USDC is deposited, an NFT representing the position is minted to the depositor's wallet. This NFT is essential for claiming interest.
+USDC principal cannot be withdrawn directly as it funds the purchase of World Mobile network infrastructure. However, positions can be sold on secondary markets. When USDC is deposited, ERC20 receipt tokens representing the position are minted to the depositor's wallet. These tokens are essential for claiming interest and can be easily traded on secondary markets or used in other DeFi protocols.
 
-Historically, node positions have traded above their purchase price due to the attractive APY. The Wise team provides assistance to users looking to exit their positions if needed.
+The ERC20 standard makes these positions highly liquid and compatible with existing decentralized exchanges and liquidity pools. Historically, node positions have traded above their purchase price due to the attractive APY. The Wise team provides assistance to users looking to exit their positions if needed.
 
 ### Security Measures
 
@@ -79,7 +81,7 @@ The 20% fixed APY is supported by several factors:
 3. World Mobile's significant cost advantage (8x) over traditional providers
 4. Established market presence and trusted partnerships
 
-The Wise team is committed to maintaining the 20% fixed APY as long as World Mobile continues delivering this value. If users need to exit positions but cannot find buyers on secondary markets, the Wise team will assist by selling nodes as necessary to maintain liquidity.
+The Wise team is committed to maintaining the 20% fixed APY as long as World Mobile continues delivering this value. The ERC20 token format enables users to easily trade their positions on decentralized exchanges, creating natural liquidity. Additionally, if needed, the Wise team will assist by selling nodes to maintain liquidity in the ecosystem.
 
 ## Market Potential
 
