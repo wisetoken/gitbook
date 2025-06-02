@@ -24,15 +24,31 @@ The World Mobile vaults offer a consistent 20% annual percentage yield on USDC, 
 
 <figure><img src="eth-deposit.jpg" alt=""><figcaption><p>ETH deposit option in the World Mobile vault interface</p></figcaption></figure>
 
+### World Mobile Vault Contracts
+
+#### Ethereum Network
+
+| Contract Name | Address |
+|--------------|----------|
+| USDC ERC20 Vault | `0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd` |
+| USDT ERC20 Vault | `0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D` |
+
+#### Arbitrum Network
+
+| Contract Name | Address |
+|--------------|----------|
+| USDC ERC20 Vault | `0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167` |
+| USDT ERC20 Vault | `0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9` |
+
 ### How It Actually Works
 
 When users deposit USDC/USDT into the World Mobile vault, the following process takes place:
 
-1. The deposited funds are forwarded to the internal account of Peter Girr (admin), who acts as a partner of World Mobile for this arrangement
-2. These funds are then used to purchase AirNodes through Peter Girr's account
+1. The deposited funds are forwarded to the internal account of Admin (Peter Girr), who acts as a partner of World Mobile for this arrangement
+2. These funds are then used to purchase AirNodes through Admin's account
 3. The AirNodes generate revenue from World Mobile's operations
-4. The interest earned on these nodes is collected by the admin
-5. The admin then deposits fractions of the revenue back into the vault to cover 20% APY
+4. The interest earned on these nodes is collected by the Admin (Peter Girr)
+5. The Admin (Peter Girr) then deposits fractions of the revenue back into the vault to cover 20% APY
 6. Users can claim their proportional rewards based on their ERC20 receipt token holdings
 
 It's important to understand that the initial principal is not withdrawable directly from the vault, as it has been used to purchase physical infrastructure. However, users can sell their ERC20 receipt tokens on secondary markets if they wish to exit their position.
@@ -77,6 +93,35 @@ The World Mobile vault employs several security features and follows a specific 
 6. Admin deposits 20% of the revenue back to the vault for user claims
 
 Users are encouraged to claim interest monthly to minimize exposure to potential (though unlikely) exploits targeting incoming revenue. The admin is responsible for ensuring that the 20% revenue share is consistently deposited back to the vault for distribution to token holders.
+
+### Admin Functions and Adjustable Parameters
+
+The World Mobile vault contracts include several admin-controlled functions that can be modified as needed. These functions can only be executed by the designated admin (Peter Girr) and include:
+
+#### Specific Admin Functions
+
+| Function | Description | Parameters Admin Can Change |
+|----------|-------------|-----------------------------|
+| `depositRewards(uint256 amount)` | Deposits rewards into the vault to maintain the 20% APY | Amount of USDC/USDT to deposit as rewards |
+| `setVaultCap(uint256 newCap)` | Adjusts the maximum capacity of each vault | New cap amount (currently $1M per vault) |
+| `pauseDeposits(bool paused)` | Enables/disables new deposits to the vault | Boolean toggle (true/false) |
+| `setFeePercentage(uint256 newFee)` | Modifies the fee structure for the vault | New fee percentage (basis points) |
+| `upgradeContract(address newImplementation)` | Implements contract upgrades for security or features | Address of new implementation contract |
+| `setRewardRate(uint256 newRate)` | Adjusts the APY rate for the vault | New APY rate (currently 20%) |
+| `whitelistAddress(address user, bool status)` | Controls which addresses can interact with the vault | User address and boolean status |
+| `emergencyWithdraw(uint256 amount)` | Allows emergency withdrawal in critical situations | Amount to withdraw |
+| `setMinimumDeposit(uint256 amount)` | Sets minimum deposit threshold | Minimum deposit amount |
+| `setMaximumDeposit(uint256 amount)` | Sets maximum deposit per transaction | Maximum deposit amount |
+
+#### When Admin Functions Are Typically Used
+
+* **Reward Distribution**: Monthly deposits to maintain the promised 20% APY
+* **Vault Cap Adjustments**: When World Mobile expands infrastructure capacity
+* **Emergency Controls**: Only in case of security threats or critical market conditions
+* **Fee Structure Changes**: Rarely modified, only if operational costs significantly change
+* **Contract Upgrades**: Scheduled maintenance or security improvements
+
+All admin actions are transparent and can be verified on the blockchain through transaction history. The admin is contractually obligated to maintain the promised 20% APY for all vault participants.
 
 ## World Mobile Technology
 
