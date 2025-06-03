@@ -107,7 +107,7 @@ The World Mobile vault contracts include several admin-controlled functions that
 | `disAllowSupplyChangeByOwner` | Prevents owner from changing supply | Default: No |
 | `mintSupply` | Allows admin to mint new tokens | Default: Yes |
 | `pauseDeposits` | Temporarily halts new deposits | Default: No |
-| `renounceOwnership` | Permanently renounces ownership of the contract | Not claled yet |
+| `renounceOwnership` | Permanently renounces ownership of the contract | Not called yet |
 | `setInterestRate` | Allows admin to change 20% promised APY | New rate |
 | `setThirdPartyAddress` | Admin can change where funds are forwarded | Address |
 | `setTotalDepositCap` | Admin can change deposit cap | New cap amount |
