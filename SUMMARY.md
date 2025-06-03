@@ -13,7 +13,7 @@
   * [💎&nbsp;Leaderboards](Wise%20Lending/Leaderboards.md)
   * [🤖&nbsp;LASA AI](Wise%20Lending/LASA_AI.md)
   * [🏆&nbsp;Decentralization Rank](Wise%20Lending/Decentralization_Rank.md)
-* [📱&nbsp;World Mobile](World%20Mobile/README.md)
+* [📱&nbsp;World Mobile Vault](World%20Mobile/README.md)
 * [🔄&nbsp;WiseR Token](WiseR%20Token/WiseR_Token.md)
 * [❓&nbsp;FAQ](FAQ/README.md)
   * [🔍&nbsp;Lenders FAQ](FAQ/lenders-faq.md)
