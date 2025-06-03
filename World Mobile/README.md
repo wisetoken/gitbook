@@ -28,17 +28,17 @@ The World Mobile vaults offer a consistent 20% annual percentage yield on USDC, 
 
 #### Ethereum Network
 
-| Contract Name | Address |
-|--------------|----------|
-| USDC ERC20 Vault | `0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd` |
-| USDT ERC20 Vault | `0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D` |
+| Contract Name | Address | Blockchain Explorer |
+|--------------|----------|--------------------|
+| USDC ERC20 Vault | `0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd` | [Etherscan](https://etherscan.io/address/0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd) |
+| USDT ERC20 Vault | `0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D` | [Etherscan](https://etherscan.io/address/0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D) |
 
 #### Arbitrum Network
 
-| Contract Name | Address |
-|--------------|----------|
-| USDC ERC20 Vault | `0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167` |
-| USDT ERC20 Vault | `0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9` |
+| Contract Name | Address | Blockchain Explorer |
+|--------------|----------|--------------------|
+| USDC ERC20 Vault | `0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167` | [Arbiscan](https://arbiscan.io/address/0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167) |
+| USDT ERC20 Vault | `0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9` | [Arbiscan](https://arbiscan.io/address/0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9) |
 
 ### How It Actually Works
 
