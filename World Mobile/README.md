@@ -100,26 +100,30 @@ The World Mobile vault contracts include several admin-controlled functions that
 
 #### Specific Admin Functions
 
-| Function | Description | Parameters Admin Can Change |
-|----------|-------------|-----------------------------|
-| `depositRewards(uint256 amount)` | Deposits rewards into the vault to maintain the 20% APY | Amount of USDC/USDT to deposit as rewards |
-| `setVaultCap(uint256 newCap)` | Adjusts the maximum capacity of each vault | New cap amount (currently $1M per vault) |
-| `pauseDeposits(bool paused)` | Enables/disables new deposits to the vault | Boolean toggle (true/false) |
-| `setFeePercentage(uint256 newFee)` | Modifies the fee structure for the vault | New fee percentage (basis points) |
-| `upgradeContract(address newImplementation)` | Implements contract upgrades for security or features | Address of new implementation contract |
-| `setRewardRate(uint256 newRate)` | Adjusts the APY rate for the vault | New APY rate (currently 20%) |
-| `whitelistAddress(address user, bool status)` | Controls which addresses can interact with the vault | User address and boolean status |
-| `emergencyWithdraw(uint256 amount)` | Allows emergency withdrawal in critical situations | Amount to withdraw |
-| `setMinimumDeposit(uint256 amount)` | Sets minimum deposit threshold | Minimum deposit amount |
-| `setMaximumDeposit(uint256 amount)` | Sets maximum deposit per transaction | Maximum deposit amount |
+| Function | Description | Parameters |
+|----------|-------------|------------|
+| `allowAutoCompound` | Admin can allow compounding of rewards by authorized address | Default: No |
+| `allowWithdraw` | Controls whether withdrawals are permitted | Default: No |
+| `burnSupply` | Admin can burn supply of any address | Amount to burn |
+| `disAllowSupplyChangeByOwner` | Prevents owner from changing supply | Default: No |
+| `mintSupply` | Allows admin to mint new tokens | Default: Yes |
+| `pauseDeposits` | Temporarily halts new deposits | Default: No |
+| `renounceOwnership` | Permanently renounces ownership of the contract | Not claled yet |
+| `setInterestRate` | Allows admin to change 20% promised APY | New rate |
+| `setThirdPartyAddress` | Admin can change where funds are forwarded | Address |
+| `setTotalDepositCap` | Admin can change deposit cap | New cap amount |
+| `unpauseDeposits` | Re-enables deposits after being paused | Boolean status |
+| `whiteListAddress` | Admin can add an address to the whitelist for compound | Address |
 
 #### When Admin Functions Are Typically Used
 
-* **Reward Distribution**: Monthly deposits to maintain the promised 20% APY
-* **Vault Cap Adjustments**: When World Mobile expands infrastructure capacity
-* **Emergency Controls**: Only in case of security threats or critical market conditions
-* **Fee Structure Changes**: Rarely modified, only if operational costs significantly change
-* **Contract Upgrades**: Scheduled maintenance or security improvements
+* **Interest Management**: Functions like `setInterestRate` are used to manage the 20% APY rewards system
+* **Deposit Controls**: `pauseDeposits`, `unpauseDeposits`, and `setTotalDepositCap` are used when adjusting vault capacity as World Mobile expands
+* **Withdrawal Management**: `allowWithdraw` and `disallowWithdraw` control the ability to withdraw funds based on operational conditions
+* **Access Control**: `whiteListAddress` and `removeWhiteListAddress` manage which addresses can interact with the vault
+* **Ownership Management**: `proposeOwner`, `claimOwnership`, and `renounceOwnership` handle administrative control of the contract
+* **Supply Management**: `mintSupply` and `burnSupply` allow adjusting the token supply when necessary
+* **Compounding Options**: `allowAutoCompound` and `disallowAutoCompound` control whether interest automatically compounds
 
 All admin actions are transparent and can be verified on the blockchain through transaction history. The admin is contractually obligated to maintain the promised 20% APY for all vault participants.
 
