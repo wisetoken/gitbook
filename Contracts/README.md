@@ -11,7 +11,8 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 | [WISE Token / Staking](https://etherscan.io/token/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6) | `0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6` |
 | [Liquidity Transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
 | [Liquidity Guard](https://etherscan.io/address/0x9C306CaD86550EC80D77668c0A8bEE6eB34684B6#code) | `0x9C306CaD86550EC80D77668c0A8bEE6eB34684B6` |
-| [WISE/ETH Token](https://etherscan.io/address/0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E) | `0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E` |
+| [WISE/ETH Uniswap Pair](https://etherscan.io/address/0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E) | `0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E` |
+| [Transferable / Scrapable Staking](https://etherscan.io/address/0x48791DbDFB38bAA58e48329148C321bF33B3c1e1) | `0x48791DbDFB38bAA58e48329148C321bF33B3c1e1` |
 
 ## Wise Lending Contracts
 
@@ -43,15 +44,15 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
-| [USDC ERC20 Vault](https://etherscan.io/token/0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd) | `0x918B7Ce7Bfc40C20aEE5B4c8e9e606a3666779bd` |
-| [USDT ERC20 Vault](https://etherscan.io/token/0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D) | `0xbD53635D938C7Eeb96079dBd890B0e11AB6b003D` |
+| [USDC ERC20 Vault](https://etherscan.io/address/0x11cEeE394842d9492f2C97050f66dE0e3f89D3A6) | `0x11cEeE394842d9492f2C97050f66dE0e3f89D3A6` |
+| [USDT ERC20 Vault](https://etherscan.io/address/0x3Ed1f16BbE0eE2C58119c13517a88fe9ccedfd45) | `0x3Ed1f16BbE0eE2C58119c13517a88fe9ccedfd45` |
 
 ### Arbitrum Network
 
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
-| [USDC ERC20 Vault](https://arbiscan.io/token/0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167) | `0xfbFE33dA1c71a120cdB75558EFF8164Ee5860167` |
-| [USDT ERC20 Vault](https://arbiscan.io/token/0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9) | `0xcDC4Ca5C30256ECb6F473B37e3c2A9a9a4e934F9` |
+| [USDC ERC20 Vault](https://arbiscan.io/address/0x025421D3e98D3bB7A33d6814Dd576eD8B9090077) | `0x025421D3e98D3bB7A33d6814Dd576eD8B9090077` |
+| [USDT ERC20 Vault](https://arbiscan.io/address/0xD69670d0eCaf032Ea8b1A6925E59dBacAA20f43A) | `0xD69670d0eCaf032Ea8b1A6925E59dBacAA20f43A` |
 
 ## Other Key Contracts
 
