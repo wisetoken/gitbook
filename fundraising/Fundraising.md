@@ -1,6 +1,6 @@
 # 💲Fundraising
 
-The Wise Ecosystem was built on the premise of rewarding the community, not insiders, and we are keeping it this way! Our fundraising for Wise is in the form of loans that are paid back with revenue from Wise Lending. All loans are paid back in WISE tokens.
+The Wise Ecosystem was built on the premise of rewarding the community, not insiders, and we are keeping it this way! Our fundraising for Wise is in the form of loans that are paid back with protocol revenue. All loans are paid back in WISE tokens.
 
 **Net revenue breakdown until funds are paid back:** 80% buys WISE to repay loans 10% DAO funds (WiseR) 10% buy/burn WISE
 

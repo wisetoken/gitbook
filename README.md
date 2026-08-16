@@ -14,7 +14,6 @@ Wise.one serves as the most advanced interface for interacting with the entire W
 
 You can access the platform and its features via the following links:
 - Welcome: [https://wise.one](https://wise.one)
-- Lending: [https://lend.wise.one](https://lend.wise.one)
 - Staking: [https://stake.wise.one](https://stake.wise.one)
 - Dashboard: [https://one.wise.one](https://one.wise.one) (or [https://app.wise.one](https://app.wise.one))
 
