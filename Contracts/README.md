@@ -16,19 +16,30 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 
 ## ERC20 Vault Contracts
 
-### Ethereum Network
+Current World Mobile vaults are deployed via CREATE2, so each token shares the same address on every supported network.
+
+### Current Vaults
+
+| Contract Name | Address | Networks |
+|---------------|---------|----------|
+| [USDC Vault](https://etherscan.io/address/0x7e1EFF4301defc24936470B30bd1c686D2a295dc) | `0x7e1EFF4301defc24936470B30bd1c686D2a295dc` | Ethereum, Arbitrum, Base |
+| [USDT Vault](https://etherscan.io/address/0x7e1EBE1D25367C6D3bC0aA72A1f00fC5320a05d7) | `0x7e1EBE1D25367C6D3bC0aA72A1f00fC5320a05d7` | Ethereum, Arbitrum |
+
+### Old Vaults (superseded, kept for reference)
+
+#### Ethereum Network
 
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
-| [USDC ERC20 Vault](https://etherscan.io/address/0x11cEeE394842d9492f2C97050f66dE0e3f89D3A6) | `0x11cEeE394842d9492f2C97050f66dE0e3f89D3A6` |
-| [USDT ERC20 Vault](https://etherscan.io/address/0x3Ed1f16BbE0eE2C58119c13517a88fe9ccedfd45) | `0x3Ed1f16BbE0eE2C58119c13517a88fe9ccedfd45` |
+| [USDC ERC20 Vault (Old)](https://etherscan.io/address/0x11cEeE394842d9492f2C97050f66dE0e3f89D3A6) | `0x11cEeE394842d9492f2C97050f66dE0e3f89D3A6` |
+| [USDT ERC20 Vault (Old)](https://etherscan.io/address/0x3Ed1f16BbE0eE2C58119c13517a88fe9ccedfd45) | `0x3Ed1f16BbE0eE2C58119c13517a88fe9ccedfd45` |
 
-### Arbitrum Network
+#### Arbitrum Network
 
 | Contract Name        | Address                                      |
 |----------------------|----------------------------------------------|
-| [USDC ERC20 Vault](https://arbiscan.io/address/0x025421D3e98D3bB7A33d6814Dd576eD8B9090077) | `0x025421D3e98D3bB7A33d6814Dd576eD8B9090077` |
-| [USDT ERC20 Vault](https://arbiscan.io/address/0xD69670d0eCaf032Ea8b1A6925E59dBacAA20f43A) | `0xD69670d0eCaf032Ea8b1A6925E59dBacAA20f43A` |
+| [USDC ERC20 Vault (Old)](https://arbiscan.io/address/0x025421D3e98D3bB7A33d6814Dd576eD8B9090077) | `0x025421D3e98D3bB7A33d6814Dd576eD8B9090077` |
+| [USDT ERC20 Vault (Old)](https://arbiscan.io/address/0xD69670d0ECaF032ea8B1a3025e59dbACAa20f43a) | `0xD69670d0ECaF032ea8B1a3025e59dbACAa20f43a` |
 
 ## Other Key Contracts
 
