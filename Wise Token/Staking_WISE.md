@@ -38,3 +38,11 @@ You can end your stake any time before maturity for a significant penalty. The p
 For example, a 100 days stake ended on day 30 will cost 70% of your principal to end. The penalized WISE is distributed proportionally among the remaining WISE stakers. Interest earned on stakes is never penalized.\
 Note: if you create a stake one day, it will really begin at midnight that day. You can terminate it any time during that day without penalty. &#x20;
 
+### Signature Stakes: Transferable WISE as Collateral
+
+A **Signature Stake** is a WISE stake created with the **I prefer this stake to be transferable** option turned on (see above). Unlike a standard non-transferable stake, a Signature Stake can be sent to another wallet or used directly by third-party DeFi protocols, while continuing to earn staking rewards and remaining scrapable for the life of the stake (durations up to 42 years).
+
+Because a Signature Stake is a transferable on-chain position with a predictable, growing value, it can be pledged as collateral to open a **line of credit** without ever unstaking the underlying WISE. This works today on general-purpose NFT/position-collateral lending markets such as [anvil.xyz](https://anvil.xyz), and is also the basis for a native Wise collateral product currently in development.
+
+The Signature Stake contract is the single largest WISE staking position in the ecosystem, holding roughly a quarter of all staked WISE — see the [live holder breakdown on DeBank](https://debank.com/token/eth/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6/group).
+

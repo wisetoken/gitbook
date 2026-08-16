@@ -12,7 +12,7 @@ This page lists key smart contract addresses for the Wise ecosystem, organized f
 | [Liquidity Transformer](https://etherscan.io/address/0xfEf0d2f3A79b4338d8418003Dd9df89281242063) | `0xfEf0d2f3A79b4338d8418003Dd9df89281242063` |
 | [Liquidity Guard](https://etherscan.io/address/0x9C306CaD86550EC80D77668c0A8bEE6eB34684B6#code) | `0x9C306CaD86550EC80D77668c0A8bEE6eB34684B6` |
 | [WISE/ETH Uniswap Pair](https://etherscan.io/address/0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E) | `0x21b8065d10f73EE2e260e5B47D3344d3Ced7596E` |
-| [Transferable / Scrapable Staking](https://etherscan.io/address/0x48791DbDFB38bAA58e48329148C321bF33B3c1e1) | `0x48791DbDFB38bAA58e48329148C321bF33B3c1e1` |
+| [Signature Stakes (Transferable / Scrapable Staking)](https://etherscan.io/address/0x48791DbDFB38bAA58e48329148C321bF33B3c1e1) | `0x48791DbDFB38bAA58e48329148C321bF33B3c1e1` |
 
 ## ERC20 Vault Contracts
 
