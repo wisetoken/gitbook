@@ -46,3 +46,5 @@ Because a Signature Stake is a transferable on-chain position with a predictable
 
 The Signature Stake contract is the single largest WISE staking position in the ecosystem, holding roughly a quarter of all staked WISE — see the [live holder breakdown on DeBank](https://debank.com/token/eth/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6/group).
 
+See the dedicated [Signature Stakes](Signature_Stakes.md) page for more on the collateral use case.
+
