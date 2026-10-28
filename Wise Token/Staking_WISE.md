@@ -40,9 +40,11 @@ Note: if you create a stake one day, it will really begin at midnight that day. 
 
 ### Signature Stakes: Transferable WISE as Collateral
 
-A **Signature Stake** is a WISE stake created with the **I prefer this stake to be transferable** option turned on (see above). Unlike a standard non-transferable stake, a Signature Stake can be sent to another wallet or used directly by third-party DeFi protocols, while continuing to earn staking rewards and remaining scrapable for the life of the stake (durations up to 42 years).
+A **Signature Stake** is a WISE stake created with the **I prefer this stake to be transferable** option turned on (see above). Unlike a standard non-transferable stake, a Signature Stake can be sent to another wallet or used by third-party DeFi protocols that explicitly support the stake NFT, while continuing to earn staking rewards and remaining scrapable for the life of the stake (durations up to 42 years).
 
-Because a Signature Stake is a transferable on-chain position with a predictable, growing value, it can be pledged as collateral to open a **line of credit** without ever unstaking the underlying WISE. This works today on general-purpose NFT/position-collateral lending markets such as [anvil.xyz](https://anvil.xyz), and is also the basis for a native Wise collateral product currently in development.
+Signature Stakes are transferable, verifiable on-chain positions. A native Wise collateral product is in development, with the aim of allowing holders to borrow against a stake without closing it.
+
+**Borrowing against Signature Stakes is not yet available through WiseOne, and there is no live Signature Stake integration with Anvil.** Transferability alone does not make a stake accepted collateral. Supported integrations and borrowing terms will be documented when the product is released.
 
 The Signature Stake contract is the single largest WISE staking position in the ecosystem, holding roughly a quarter of all staked WISE — see the [live holder breakdown on DeBank](https://debank.com/token/eth/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6/group).
 
